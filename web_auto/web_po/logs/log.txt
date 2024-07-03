@@ -1,0 +1,888 @@
+[2024-06-29 20:44:25] [INFO] [base_page.py]/[line: 21]/[__init__] 当前页面的 driver 为 None 
+[2024-06-29 20:44:39] [INFO] [base_page.py]/[line: 53]/[open_url] 打开页面的 url 为 https://ceshiren.com/ 
+[2024-06-29 20:44:39] [INFO] [base_page.py]/[line: 64]/[find_ele] 定位单个元素，定位方式为 css selector, 定位表达式为 #search-button 
+[2024-06-29 20:44:39] [INFO] [base_page.py]/[line: 64]/[find_ele] 定位单个元素，定位方式为 id, 定位表达式为 search-term 
+[2024-06-29 20:44:39] [INFO] [base_page.py]/[line: 136]/[wait_ele_locate] 显式等待元素可以被定位，定位方式为 class name, 定位表达式为 show-advanced-search 
+[2024-06-29 20:44:39] [INFO] [base_page.py]/[line: 21]/[__init__] 当前页面的 driver 为 <selenium.webdriver.chrome.webdriver.WebDriver (session="af777dbc23ea93f70de88b466ac732df")> 
+[2024-06-29 20:44:39] [INFO] [base_page.py]/[line: 150]/[wait_ele_click] 显式等待元素可以被点击，定位方式为 class name, 定位表达式为 search-link 
+[2024-06-29 20:44:40] [INFO] [more_search_page.py]/[line: 43]/[get_search_result_title] 高级搜索页面下第一个标题的文本为：pytest参数化用例。标记测试用例。跳过（skip）用例。运行用例。Pytest命令行常用参数。python解释器执行pytest。pytest异常处理 
+[2024-06-29 20:44:40] [INFO] [base_page.py]/[line: 150]/[wait_ele_click] 显式等待元素可以被点击，定位方式为 class name, 定位表达式为 search-link 
+[2024-06-29 20:44:40] [INFO] [base_page.py]/[line: 21]/[__init__] 当前页面的 driver 为 <selenium.webdriver.chrome.webdriver.WebDriver (session="af777dbc23ea93f70de88b466ac732df")> 
+[2024-06-29 20:44:40] [INFO] [base_page.py]/[line: 136]/[wait_ele_locate] 显式等待元素可以被定位，定位方式为 xpath, 定位表达式为 //*[@class="fancy-title"] 
+[2024-06-29 20:44:40] [INFO] [base_page.py]/[line: 42]/[close_browser] 关闭浏览器 
+[2024-06-29 20:44:40] [INFO] [base_page.py]/[line: 21]/[__init__] 当前页面的 driver 为 None 
+[2024-06-29 20:44:48] [INFO] [base_page.py]/[line: 53]/[open_url] 打开页面的 url 为 https://ceshiren.com/ 
+[2024-06-29 20:44:48] [INFO] [base_page.py]/[line: 64]/[find_ele] 定位单个元素，定位方式为 css selector, 定位表达式为 #search-button 
+[2024-06-29 20:44:48] [INFO] [base_page.py]/[line: 64]/[find_ele] 定位单个元素，定位方式为 id, 定位表达式为 search-term 
+[2024-06-29 20:44:48] [INFO] [base_page.py]/[line: 136]/[wait_ele_locate] 显式等待元素可以被定位，定位方式为 class name, 定位表达式为 show-advanced-search 
+[2024-06-29 20:44:48] [INFO] [base_page.py]/[line: 21]/[__init__] 当前页面的 driver 为 <selenium.webdriver.chrome.webdriver.WebDriver (session="2e90cbae3fd49dcb91e9d20e4c784c95")> 
+[2024-06-29 20:44:48] [INFO] [base_page.py]/[line: 150]/[wait_ele_click] 显式等待元素可以被点击，定位方式为 class name, 定位表达式为 search-link 
+[2024-06-29 20:44:49] [INFO] [base_page.py]/[line: 64]/[find_ele] 定位单个元素，定位方式为 xpath, 定位表达式为 //*[text()="确定"] 
+[2024-06-29 20:44:49] [INFO] [more_search_page.py]/[line: 43]/[get_search_result_title] 高级搜索页面下第一个标题的文本为：价值 25k 的面试题及其答案分享 
+[2024-06-29 20:44:49] [INFO] [base_page.py]/[line: 150]/[wait_ele_click] 显式等待元素可以被点击，定位方式为 class name, 定位表达式为 search-link 
+[2024-06-29 20:44:49] [INFO] [base_page.py]/[line: 21]/[__init__] 当前页面的 driver 为 <selenium.webdriver.chrome.webdriver.WebDriver (session="2e90cbae3fd49dcb91e9d20e4c784c95")> 
+[2024-06-29 20:44:49] [INFO] [base_page.py]/[line: 136]/[wait_ele_locate] 显式等待元素可以被定位，定位方式为 xpath, 定位表达式为 //*[@class="fancy-title"] 
+[2024-06-29 20:44:50] [INFO] [base_page.py]/[line: 42]/[close_browser] 关闭浏览器 
+[2024-06-29 20:44:50] [INFO] [base_page.py]/[line: 21]/[__init__] 当前页面的 driver 为 None 
+[2024-06-29 20:44:52] [INFO] [base_page.py]/[line: 53]/[open_url] 打开页面的 url 为 https://ceshiren.com/ 
+[2024-06-29 20:44:52] [INFO] [base_page.py]/[line: 64]/[find_ele] 定位单个元素，定位方式为 css selector, 定位表达式为 #search-button 
+[2024-06-29 20:44:56] [INFO] [base_page.py]/[line: 64]/[find_ele] 定位单个元素，定位方式为 id, 定位表达式为 search-term 
+[2024-06-29 20:44:56] [INFO] [base_page.py]/[line: 136]/[wait_ele_locate] 显式等待元素可以被定位，定位方式为 class name, 定位表达式为 show-advanced-search 
+[2024-06-29 20:44:56] [INFO] [base_page.py]/[line: 21]/[__init__] 当前页面的 driver 为 <selenium.webdriver.chrome.webdriver.WebDriver (session="31bfaea88c828b56729f7acdf313054a")> 
+[2024-06-29 20:44:56] [INFO] [base_page.py]/[line: 150]/[wait_ele_click] 显式等待元素可以被点击，定位方式为 class name, 定位表达式为 search-link 
+[2024-06-29 20:44:58] [INFO] [more_search_page.py]/[line: 43]/[get_search_result_title] 高级搜索页面下第一个标题的文本为：请教下，A目录下有B子package ,B中有C子package, 然后我在C的某文件中，要import A 下的某文件，要怎么写import 语句呢? 
+[2024-06-29 20:44:58] [INFO] [base_page.py]/[line: 150]/[wait_ele_click] 显式等待元素可以被点击，定位方式为 class name, 定位表达式为 search-link 
+[2024-06-29 20:44:58] [INFO] [base_page.py]/[line: 21]/[__init__] 当前页面的 driver 为 <selenium.webdriver.chrome.webdriver.WebDriver (session="31bfaea88c828b56729f7acdf313054a")> 
+[2024-06-29 20:44:58] [INFO] [base_page.py]/[line: 136]/[wait_ele_locate] 显式等待元素可以被定位，定位方式为 xpath, 定位表达式为 //*[@class="fancy-title"] 
+[2024-06-29 20:44:58] [INFO] [base_page.py]/[line: 42]/[close_browser] 关闭浏览器 
+[2024-06-29 20:44:59] [INFO] [base_page.py]/[line: 21]/[__init__] 当前页面的 driver 为 None 
+[2024-06-29 20:45:01] [INFO] [base_page.py]/[line: 53]/[open_url] 打开页面的 url 为 https://ceshiren.com/ 
+[2024-06-29 20:45:01] [INFO] [base_page.py]/[line: 64]/[find_ele] 定位单个元素，定位方式为 css selector, 定位表达式为 #search-button 
+[2024-06-29 20:45:04] [INFO] [base_page.py]/[line: 64]/[find_ele] 定位单个元素，定位方式为 id, 定位表达式为 search-term 
+[2024-06-29 20:45:05] [INFO] [base_page.py]/[line: 136]/[wait_ele_locate] 显式等待元素可以被定位，定位方式为 class name, 定位表达式为 show-advanced-search 
+[2024-06-29 20:45:05] [INFO] [base_page.py]/[line: 21]/[__init__] 当前页面的 driver 为 <selenium.webdriver.chrome.webdriver.WebDriver (session="8479f3e340ff8abba5d722576272cd56")> 
+[2024-06-29 20:45:05] [INFO] [base_page.py]/[line: 150]/[wait_ele_click] 显式等待元素可以被点击，定位方式为 class name, 定位表达式为 search-link 
+[2024-06-29 20:45:06] [INFO] [more_search_page.py]/[line: 43]/[get_search_result_title] 高级搜索页面下第一个标题的文本为：appium desktop连接真机，start session，出现报错，手机上appium setting打开闪退，但是进程显示是进行中。报错内容：An unknown server-side error occurred while processing the command. Original error: Could not find a connected Android device in 20364ms. 
+[2024-06-29 20:45:06] [INFO] [base_page.py]/[line: 150]/[wait_ele_click] 显式等待元素可以被点击，定位方式为 class name, 定位表达式为 search-link 
+[2024-06-29 20:45:06] [INFO] [base_page.py]/[line: 21]/[__init__] 当前页面的 driver 为 <selenium.webdriver.chrome.webdriver.WebDriver (session="8479f3e340ff8abba5d722576272cd56")> 
+[2024-06-29 20:45:06] [INFO] [base_page.py]/[line: 136]/[wait_ele_locate] 显式等待元素可以被定位，定位方式为 xpath, 定位表达式为 //*[@class="fancy-title"] 
+[2024-06-29 20:45:06] [INFO] [base_page.py]/[line: 42]/[close_browser] 关闭浏览器 
+[2024-06-29 20:45:07] [INFO] [base_page.py]/[line: 21]/[__init__] 当前页面的 driver 为 None 
+[2024-06-29 20:45:12] [INFO] [base_page.py]/[line: 53]/[open_url] 打开页面的 url 为 https://ceshiren.com/ 
+[2024-06-29 20:45:12] [INFO] [base_page.py]/[line: 64]/[find_ele] 定位单个元素，定位方式为 css selector, 定位表达式为 #search-button 
+[2024-06-29 20:45:12] [INFO] [base_page.py]/[line: 64]/[find_ele] 定位单个元素，定位方式为 id, 定位表达式为 search-term 
+[2024-06-29 20:45:12] [INFO] [base_page.py]/[line: 136]/[wait_ele_locate] 显式等待元素可以被定位，定位方式为 class name, 定位表达式为 show-advanced-search 
+[2024-06-29 20:45:12] [INFO] [base_page.py]/[line: 21]/[__init__] 当前页面的 driver 为 <selenium.webdriver.chrome.webdriver.WebDriver (session="36300ab336c39029c9ed923cd8c31c6a")> 
+[2024-06-29 20:45:12] [INFO] [base_page.py]/[line: 64]/[find_ele] 定位单个元素，定位方式为 css selector, 定位表达式为 .search-cta 
+[2024-06-29 20:45:12] [INFO] [base_page.py]/[line: 64]/[find_ele] 定位单个元素，定位方式为 xpath, 定位表达式为 //*[@class='fps-invalid'] 
+[2024-06-29 20:45:12] [INFO] [base_page.py]/[line: 103]/[find_and_get_text] 元素的文本属性为 您的搜索词过短。 
+[2024-06-29 20:45:12] [INFO] [more_search_page.py]/[line: 67]/[get_none_msg] 提示信息为：您的搜索词过短。 
+[2024-06-29 20:45:12] [INFO] [base_page.py]/[line: 42]/[close_browser] 关闭浏览器 
+[2024-06-29 20:45:12] [INFO] [base_page.py]/[line: 21]/[__init__] 当前页面的 driver 为 None 
+[2024-06-29 20:45:20] [INFO] [base_page.py]/[line: 53]/[open_url] 打开页面的 url 为 https://ceshiren.com/ 
+[2024-06-29 20:45:20] [INFO] [base_page.py]/[line: 64]/[find_ele] 定位单个元素，定位方式为 css selector, 定位表达式为 #search-button 
+[2024-06-29 20:45:20] [INFO] [base_page.py]/[line: 64]/[find_ele] 定位单个元素，定位方式为 id, 定位表达式为 search-term 
+[2024-06-29 20:45:20] [INFO] [base_page.py]/[line: 136]/[wait_ele_locate] 显式等待元素可以被定位，定位方式为 class name, 定位表达式为 show-advanced-search 
+[2024-06-29 20:45:20] [INFO] [base_page.py]/[line: 21]/[__init__] 当前页面的 driver 为 <selenium.webdriver.chrome.webdriver.WebDriver (session="da2005fce218cc748351cdfc3285e41c")> 
+[2024-06-29 20:45:20] [INFO] [base_page.py]/[line: 64]/[find_ele] 定位单个元素，定位方式为 css selector, 定位表达式为 .search-cta 
+[2024-06-29 20:45:20] [INFO] [base_page.py]/[line: 64]/[find_ele] 定位单个元素，定位方式为 css selector, 定位表达式为 .loading-container > h3 
+[2024-06-29 20:45:20] [INFO] [base_page.py]/[line: 103]/[find_and_get_text] 元素的文本属性为 找不到结果。 
+[2024-06-29 20:45:20] [INFO] [more_search_page.py]/[line: 79]/[get_no_result_msg] 提示信息为：找不到结果。 
+[2024-06-29 20:45:20] [INFO] [base_page.py]/[line: 42]/[close_browser] 关闭浏览器 
+[2024-06-30 13:52:45] [INFO] [base_page.py]/[line: 21]/[__init__] 当前页面的 driver 为 None 
+[2024-06-30 13:52:50] [INFO] [base_page.py]/[line: 53]/[open_url] 打开页面的 url 为 https://ceshiren.com/ 
+[2024-06-30 13:52:50] [INFO] [base_page.py]/[line: 64]/[find_ele] 定位单个元素，定位方式为 css selector, 定位表达式为 #search-button 
+[2024-06-30 13:52:50] [INFO] [base_page.py]/[line: 64]/[find_ele] 定位单个元素，定位方式为 id, 定位表达式为 search-term 
+[2024-06-30 13:52:50] [INFO] [base_page.py]/[line: 136]/[wait_ele_locate] 显式等待元素可以被定位，定位方式为 class name, 定位表达式为 show-advanced-search 
+[2024-06-30 13:52:50] [INFO] [base_page.py]/[line: 21]/[__init__] 当前页面的 driver 为 <selenium.webdriver.chrome.webdriver.WebDriver (session="28664cf834e5af508d2f1176d11a67b7")> 
+[2024-06-30 13:52:50] [INFO] [base_page.py]/[line: 150]/[wait_ele_click] 显式等待元素可以被点击，定位方式为 class name, 定位表达式为 search-link 
+[2024-06-30 13:52:51] [INFO] [base_page.py]/[line: 64]/[find_ele] 定位单个元素，定位方式为 xpath, 定位表达式为 //*[text()="确定"] 
+[2024-06-30 13:52:51] [INFO] [more_search_page.py]/[line: 43]/[get_search_result_title] 高级搜索页面下第一个标题的文本为：pytest参数化用例。标记测试用例。跳过（skip）用例。运行用例。Pytest命令行常用参数。python解释器执行pytest。pytest异常处理 
+[2024-06-30 13:52:51] [INFO] [base_page.py]/[line: 150]/[wait_ele_click] 显式等待元素可以被点击，定位方式为 class name, 定位表达式为 search-link 
+[2024-06-30 13:52:51] [INFO] [base_page.py]/[line: 21]/[__init__] 当前页面的 driver 为 <selenium.webdriver.chrome.webdriver.WebDriver (session="28664cf834e5af508d2f1176d11a67b7")> 
+[2024-06-30 13:52:51] [INFO] [base_page.py]/[line: 136]/[wait_ele_locate] 显式等待元素可以被定位，定位方式为 xpath, 定位表达式为 //*[@class="fancy-title"] 
+[2024-06-30 13:52:51] [INFO] [base_page.py]/[line: 42]/[close_browser] 关闭浏览器 
+[2024-06-30 13:52:51] [INFO] [base_page.py]/[line: 21]/[__init__] 当前页面的 driver 为 None 
+[2024-06-30 13:52:56] [INFO] [base_page.py]/[line: 53]/[open_url] 打开页面的 url 为 https://ceshiren.com/ 
+[2024-06-30 13:52:56] [INFO] [base_page.py]/[line: 64]/[find_ele] 定位单个元素，定位方式为 css selector, 定位表达式为 #search-button 
+[2024-06-30 13:52:56] [INFO] [base_page.py]/[line: 64]/[find_ele] 定位单个元素，定位方式为 id, 定位表达式为 search-term 
+[2024-06-30 13:52:56] [INFO] [base_page.py]/[line: 136]/[wait_ele_locate] 显式等待元素可以被定位，定位方式为 class name, 定位表达式为 show-advanced-search 
+[2024-06-30 13:52:56] [INFO] [base_page.py]/[line: 21]/[__init__] 当前页面的 driver 为 <selenium.webdriver.chrome.webdriver.WebDriver (session="9bc09743f73e043b3414b371baff63c9")> 
+[2024-06-30 13:52:56] [INFO] [base_page.py]/[line: 150]/[wait_ele_click] 显式等待元素可以被点击，定位方式为 class name, 定位表达式为 search-link 
+[2024-06-30 13:52:57] [INFO] [base_page.py]/[line: 64]/[find_ele] 定位单个元素，定位方式为 xpath, 定位表达式为 //*[text()="确定"] 
+[2024-06-30 13:52:57] [INFO] [more_search_page.py]/[line: 43]/[get_search_result_title] 高级搜索页面下第一个标题的文本为：价值 25k 的面试题及其答案分享 
+[2024-06-30 13:52:57] [INFO] [base_page.py]/[line: 150]/[wait_ele_click] 显式等待元素可以被点击，定位方式为 class name, 定位表达式为 search-link 
+[2024-06-30 13:52:57] [INFO] [base_page.py]/[line: 21]/[__init__] 当前页面的 driver 为 <selenium.webdriver.chrome.webdriver.WebDriver (session="9bc09743f73e043b3414b371baff63c9")> 
+[2024-06-30 13:52:57] [INFO] [base_page.py]/[line: 136]/[wait_ele_locate] 显式等待元素可以被定位，定位方式为 xpath, 定位表达式为 //*[@class="fancy-title"] 
+[2024-06-30 13:52:57] [INFO] [base_page.py]/[line: 42]/[close_browser] 关闭浏览器 
+[2024-06-30 13:52:57] [INFO] [base_page.py]/[line: 21]/[__init__] 当前页面的 driver 为 None 
+[2024-06-30 13:53:14] [INFO] [base_page.py]/[line: 53]/[open_url] 打开页面的 url 为 https://ceshiren.com/ 
+[2024-06-30 13:53:14] [INFO] [base_page.py]/[line: 64]/[find_ele] 定位单个元素，定位方式为 css selector, 定位表达式为 #search-button 
+[2024-06-30 13:53:14] [INFO] [base_page.py]/[line: 64]/[find_ele] 定位单个元素，定位方式为 id, 定位表达式为 search-term 
+[2024-06-30 13:53:14] [INFO] [base_page.py]/[line: 136]/[wait_ele_locate] 显式等待元素可以被定位，定位方式为 class name, 定位表达式为 show-advanced-search 
+[2024-06-30 13:53:14] [INFO] [base_page.py]/[line: 21]/[__init__] 当前页面的 driver 为 <selenium.webdriver.chrome.webdriver.WebDriver (session="8c0ce8fed6d2c1a0507d46f26b90dfb9")> 
+[2024-06-30 13:53:14] [INFO] [base_page.py]/[line: 150]/[wait_ele_click] 显式等待元素可以被点击，定位方式为 class name, 定位表达式为 search-link 
+[2024-06-30 13:53:16] [INFO] [more_search_page.py]/[line: 43]/[get_search_result_title] 高级搜索页面下第一个标题的文本为：请教下，A目录下有B子package ,B中有C子package, 然后我在C的某文件中，要import A 下的某文件，要怎么写import 语句呢? 
+[2024-06-30 13:53:16] [INFO] [base_page.py]/[line: 150]/[wait_ele_click] 显式等待元素可以被点击，定位方式为 class name, 定位表达式为 search-link 
+[2024-06-30 13:53:16] [INFO] [base_page.py]/[line: 21]/[__init__] 当前页面的 driver 为 <selenium.webdriver.chrome.webdriver.WebDriver (session="8c0ce8fed6d2c1a0507d46f26b90dfb9")> 
+[2024-06-30 13:53:16] [INFO] [base_page.py]/[line: 136]/[wait_ele_locate] 显式等待元素可以被定位，定位方式为 xpath, 定位表达式为 //*[@class="fancy-title"] 
+[2024-06-30 13:53:16] [INFO] [base_page.py]/[line: 42]/[close_browser] 关闭浏览器 
+[2024-06-30 13:53:16] [INFO] [base_page.py]/[line: 21]/[__init__] 当前页面的 driver 为 None 
+[2024-06-30 13:53:21] [INFO] [base_page.py]/[line: 53]/[open_url] 打开页面的 url 为 https://ceshiren.com/ 
+[2024-06-30 13:53:21] [INFO] [base_page.py]/[line: 64]/[find_ele] 定位单个元素，定位方式为 css selector, 定位表达式为 #search-button 
+[2024-06-30 13:53:21] [INFO] [base_page.py]/[line: 64]/[find_ele] 定位单个元素，定位方式为 id, 定位表达式为 search-term 
+[2024-06-30 13:53:22] [INFO] [base_page.py]/[line: 136]/[wait_ele_locate] 显式等待元素可以被定位，定位方式为 class name, 定位表达式为 show-advanced-search 
+[2024-06-30 13:53:22] [INFO] [base_page.py]/[line: 21]/[__init__] 当前页面的 driver 为 <selenium.webdriver.chrome.webdriver.WebDriver (session="a18fdd5dec955e51ee499ea6f4dd28ad")> 
+[2024-06-30 13:53:22] [INFO] [base_page.py]/[line: 150]/[wait_ele_click] 显式等待元素可以被点击，定位方式为 class name, 定位表达式为 search-link 
+[2024-06-30 13:53:22] [INFO] [base_page.py]/[line: 64]/[find_ele] 定位单个元素，定位方式为 xpath, 定位表达式为 //*[text()="确定"] 
+[2024-06-30 13:53:22] [INFO] [more_search_page.py]/[line: 43]/[get_search_result_title] 高级搜索页面下第一个标题的文本为：appium desktop连接真机，start session，出现报错，手机上appium setting打开闪退，但是进程显示是进行中。报错内容：An unknown server-side error occurred while processing the command. Original error: Could not find a connected Android device in 20364ms. 
+[2024-06-30 13:53:22] [INFO] [base_page.py]/[line: 150]/[wait_ele_click] 显式等待元素可以被点击，定位方式为 class name, 定位表达式为 search-link 
+[2024-06-30 13:53:22] [INFO] [base_page.py]/[line: 21]/[__init__] 当前页面的 driver 为 <selenium.webdriver.chrome.webdriver.WebDriver (session="a18fdd5dec955e51ee499ea6f4dd28ad")> 
+[2024-06-30 13:53:22] [INFO] [base_page.py]/[line: 136]/[wait_ele_locate] 显式等待元素可以被定位，定位方式为 xpath, 定位表达式为 //*[@class="fancy-title"] 
+[2024-06-30 13:53:23] [INFO] [base_page.py]/[line: 42]/[close_browser] 关闭浏览器 
+[2024-06-30 13:53:23] [INFO] [base_page.py]/[line: 21]/[__init__] 当前页面的 driver 为 None 
+[2024-06-30 13:53:28] [INFO] [base_page.py]/[line: 53]/[open_url] 打开页面的 url 为 https://ceshiren.com/ 
+[2024-06-30 13:53:28] [INFO] [base_page.py]/[line: 64]/[find_ele] 定位单个元素，定位方式为 css selector, 定位表达式为 #search-button 
+[2024-06-30 13:53:28] [INFO] [base_page.py]/[line: 64]/[find_ele] 定位单个元素，定位方式为 id, 定位表达式为 search-term 
+[2024-06-30 13:53:28] [INFO] [base_page.py]/[line: 136]/[wait_ele_locate] 显式等待元素可以被定位，定位方式为 class name, 定位表达式为 show-advanced-search 
+[2024-06-30 13:53:28] [INFO] [base_page.py]/[line: 21]/[__init__] 当前页面的 driver 为 <selenium.webdriver.chrome.webdriver.WebDriver (session="fa4f652ad95728fda9eb7e50787c3c83")> 
+[2024-06-30 13:53:28] [INFO] [base_page.py]/[line: 64]/[find_ele] 定位单个元素，定位方式为 css selector, 定位表达式为 .search-cta 
+[2024-06-30 13:53:28] [INFO] [base_page.py]/[line: 64]/[find_ele] 定位单个元素，定位方式为 xpath, 定位表达式为 //*[@class='fps-invalid'] 
+[2024-06-30 13:53:28] [INFO] [base_page.py]/[line: 103]/[find_and_get_text] 元素的文本属性为 您的搜索词过短。 
+[2024-06-30 13:53:28] [INFO] [more_search_page.py]/[line: 67]/[get_none_msg] 提示信息为：您的搜索词过短。 
+[2024-06-30 13:53:28] [INFO] [base_page.py]/[line: 42]/[close_browser] 关闭浏览器 
+[2024-06-30 13:53:28] [INFO] [base_page.py]/[line: 21]/[__init__] 当前页面的 driver 为 None 
+[2024-06-30 13:53:30] [INFO] [base_page.py]/[line: 53]/[open_url] 打开页面的 url 为 https://ceshiren.com/ 
+[2024-06-30 13:53:30] [INFO] [base_page.py]/[line: 64]/[find_ele] 定位单个元素，定位方式为 css selector, 定位表达式为 #search-button 
+[2024-06-30 13:53:34] [INFO] [base_page.py]/[line: 64]/[find_ele] 定位单个元素，定位方式为 id, 定位表达式为 search-term 
+[2024-06-30 13:53:34] [INFO] [base_page.py]/[line: 136]/[wait_ele_locate] 显式等待元素可以被定位，定位方式为 class name, 定位表达式为 show-advanced-search 
+[2024-06-30 13:53:34] [INFO] [base_page.py]/[line: 21]/[__init__] 当前页面的 driver 为 <selenium.webdriver.chrome.webdriver.WebDriver (session="dc5c1f8f4519efe1e0fdc2cc9bcb177d")> 
+[2024-06-30 13:53:34] [INFO] [base_page.py]/[line: 64]/[find_ele] 定位单个元素，定位方式为 css selector, 定位表达式为 .search-cta 
+[2024-06-30 13:53:35] [INFO] [base_page.py]/[line: 64]/[find_ele] 定位单个元素，定位方式为 css selector, 定位表达式为 .loading-container > h3 
+[2024-06-30 13:53:35] [INFO] [base_page.py]/[line: 103]/[find_and_get_text] 元素的文本属性为 找不到结果。 
+[2024-06-30 13:53:35] [INFO] [more_search_page.py]/[line: 79]/[get_no_result_msg] 提示信息为：找不到结果。 
+[2024-06-30 13:53:35] [INFO] [base_page.py]/[line: 42]/[close_browser] 关闭浏览器 
+[2024-06-30 14:35:51] [INFO] [base_page.py]/[line: 21]/[__init__] 当前页面的 driver 为 None 
+[2024-06-30 14:35:53] [INFO] [base_page.py]/[line: 53]/[open_url] 打开页面的 url 为 https://ceshiren.com/ 
+[2024-06-30 14:35:53] [INFO] [base_page.py]/[line: 64]/[find_ele] 定位单个元素，定位方式为 css selector, 定位表达式为 #search-button123 
+[2024-06-30 14:36:08] [INFO] [base_page.py]/[line: 69]/[find_ele] 单个元素没有找到 Message: no such element: Unable to locate element: {"method":"css selector","selector":"#search-button123"}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF79A811F22+60322]
+	(No symbol) [0x00007FF79A78CE99]
+	(No symbol) [0x00007FF79A647EBA]
+	(No symbol) [0x00007FF79A697676]
+	(No symbol) [0x00007FF79A69773C]
+	(No symbol) [0x00007FF79A6DE967]
+	(No symbol) [0x00007FF79A6BC25F]
+	(No symbol) [0x00007FF79A6DBC80]
+	(No symbol) [0x00007FF79A6BBFC3]
+	(No symbol) [0x00007FF79A689617]
+	(No symbol) [0x00007FF79A68A211]
+	GetHandleVerifier [0x00007FF79AB2946D+3301613]
+	GetHandleVerifier [0x00007FF79AB73693+3605267]
+	GetHandleVerifier [0x00007FF79AB69410+3563664]
+	GetHandleVerifier [0x00007FF79A8C42F6+790390]
+	(No symbol) [0x00007FF79A7974DF]
+	(No symbol) [0x00007FF79A7933D4]
+	(No symbol) [0x00007FF79A793562]
+	(No symbol) [0x00007FF79A782F6F]
+	BaseThreadInitThunk [0x00007FFE603C257D+29]
+	RtlUserThreadStart [0x00007FFE61FAAF28+40]
+ 
+[2024-06-30 14:36:08] [INFO] [base_page.py]/[line: 179]/[srceen_image] 截图保存的路径为 D:\githubRep\ccftest-master\web_auto\web_po\base\..\images/2024_06_30_14_36_08.png 
+[2024-06-30 14:36:08] [INFO] [base_page.py]/[line: 195]/[save_page_source] page source 文件保存的路径为 D:\githubRep\ccftest-master\web_auto\web_po\base\..\pagesource/2024_06_30_14_36_08.html 
+[2024-06-30 14:36:08] [INFO] [base_page.py]/[line: 42]/[close_browser] 关闭浏览器 
+[2024-06-30 14:36:11] [INFO] [base_page.py]/[line: 21]/[__init__] 当前页面的 driver 为 None 
+[2024-06-30 14:36:13] [INFO] [base_page.py]/[line: 53]/[open_url] 打开页面的 url 为 https://ceshiren.com/ 
+[2024-06-30 14:36:13] [INFO] [base_page.py]/[line: 64]/[find_ele] 定位单个元素，定位方式为 css selector, 定位表达式为 #search-button123 
+[2024-06-30 14:36:28] [INFO] [base_page.py]/[line: 69]/[find_ele] 单个元素没有找到 Message: no such element: Unable to locate element: {"method":"css selector","selector":"#search-button123"}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF79A811F22+60322]
+	(No symbol) [0x00007FF79A78CE99]
+	(No symbol) [0x00007FF79A647EBA]
+	(No symbol) [0x00007FF79A697676]
+	(No symbol) [0x00007FF79A69773C]
+	(No symbol) [0x00007FF79A6DE967]
+	(No symbol) [0x00007FF79A6BC25F]
+	(No symbol) [0x00007FF79A6DBC80]
+	(No symbol) [0x00007FF79A6BBFC3]
+	(No symbol) [0x00007FF79A689617]
+	(No symbol) [0x00007FF79A68A211]
+	GetHandleVerifier [0x00007FF79AB2946D+3301613]
+	GetHandleVerifier [0x00007FF79AB73693+3605267]
+	GetHandleVerifier [0x00007FF79AB69410+3563664]
+	GetHandleVerifier [0x00007FF79A8C42F6+790390]
+	(No symbol) [0x00007FF79A7974DF]
+	(No symbol) [0x00007FF79A7933D4]
+	(No symbol) [0x00007FF79A793562]
+	(No symbol) [0x00007FF79A782F6F]
+	BaseThreadInitThunk [0x00007FFE603C257D+29]
+	RtlUserThreadStart [0x00007FFE61FAAF28+40]
+ 
+[2024-06-30 14:36:28] [INFO] [base_page.py]/[line: 179]/[srceen_image] 截图保存的路径为 D:\githubRep\ccftest-master\web_auto\web_po\base\..\images/2024_06_30_14_36_28.png 
+[2024-06-30 14:36:28] [INFO] [base_page.py]/[line: 195]/[save_page_source] page source 文件保存的路径为 D:\githubRep\ccftest-master\web_auto\web_po\base\..\pagesource/2024_06_30_14_36_28.html 
+[2024-06-30 14:36:28] [INFO] [base_page.py]/[line: 42]/[close_browser] 关闭浏览器 
+[2024-06-30 14:36:31] [INFO] [base_page.py]/[line: 21]/[__init__] 当前页面的 driver 为 None 
+[2024-06-30 14:36:33] [INFO] [base_page.py]/[line: 53]/[open_url] 打开页面的 url 为 https://ceshiren.com/ 
+[2024-06-30 14:36:33] [INFO] [base_page.py]/[line: 64]/[find_ele] 定位单个元素，定位方式为 css selector, 定位表达式为 #search-button123 
+[2024-06-30 14:36:48] [INFO] [base_page.py]/[line: 69]/[find_ele] 单个元素没有找到 Message: no such element: Unable to locate element: {"method":"css selector","selector":"#search-button123"}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF79A811F22+60322]
+	(No symbol) [0x00007FF79A78CE99]
+	(No symbol) [0x00007FF79A647EBA]
+	(No symbol) [0x00007FF79A697676]
+	(No symbol) [0x00007FF79A69773C]
+	(No symbol) [0x00007FF79A6DE967]
+	(No symbol) [0x00007FF79A6BC25F]
+	(No symbol) [0x00007FF79A6DBC80]
+	(No symbol) [0x00007FF79A6BBFC3]
+	(No symbol) [0x00007FF79A689617]
+	(No symbol) [0x00007FF79A68A211]
+	GetHandleVerifier [0x00007FF79AB2946D+3301613]
+	GetHandleVerifier [0x00007FF79AB73693+3605267]
+	GetHandleVerifier [0x00007FF79AB69410+3563664]
+	GetHandleVerifier [0x00007FF79A8C42F6+790390]
+	(No symbol) [0x00007FF79A7974DF]
+	(No symbol) [0x00007FF79A7933D4]
+	(No symbol) [0x00007FF79A793562]
+	(No symbol) [0x00007FF79A782F6F]
+	BaseThreadInitThunk [0x00007FFE603C257D+29]
+	RtlUserThreadStart [0x00007FFE61FAAF28+40]
+ 
+[2024-06-30 14:36:48] [INFO] [base_page.py]/[line: 179]/[srceen_image] 截图保存的路径为 D:\githubRep\ccftest-master\web_auto\web_po\base\..\images/2024_06_30_14_36_48.png 
+[2024-06-30 14:36:48] [INFO] [base_page.py]/[line: 195]/[save_page_source] page source 文件保存的路径为 D:\githubRep\ccftest-master\web_auto\web_po\base\..\pagesource/2024_06_30_14_36_48.html 
+[2024-06-30 14:36:48] [INFO] [base_page.py]/[line: 42]/[close_browser] 关闭浏览器 
+[2024-06-30 14:36:51] [INFO] [base_page.py]/[line: 21]/[__init__] 当前页面的 driver 为 None 
+[2024-06-30 14:36:53] [INFO] [base_page.py]/[line: 53]/[open_url] 打开页面的 url 为 https://ceshiren.com/ 
+[2024-06-30 14:36:53] [INFO] [base_page.py]/[line: 64]/[find_ele] 定位单个元素，定位方式为 css selector, 定位表达式为 #search-button123 
+[2024-06-30 14:37:08] [INFO] [base_page.py]/[line: 69]/[find_ele] 单个元素没有找到 Message: no such element: Unable to locate element: {"method":"css selector","selector":"#search-button123"}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF79A811F22+60322]
+	(No symbol) [0x00007FF79A78CE99]
+	(No symbol) [0x00007FF79A647EBA]
+	(No symbol) [0x00007FF79A697676]
+	(No symbol) [0x00007FF79A69773C]
+	(No symbol) [0x00007FF79A6DE967]
+	(No symbol) [0x00007FF79A6BC25F]
+	(No symbol) [0x00007FF79A6DBC80]
+	(No symbol) [0x00007FF79A6BBFC3]
+	(No symbol) [0x00007FF79A689617]
+	(No symbol) [0x00007FF79A68A211]
+	GetHandleVerifier [0x00007FF79AB2946D+3301613]
+	GetHandleVerifier [0x00007FF79AB73693+3605267]
+	GetHandleVerifier [0x00007FF79AB69410+3563664]
+	GetHandleVerifier [0x00007FF79A8C42F6+790390]
+	(No symbol) [0x00007FF79A7974DF]
+	(No symbol) [0x00007FF79A7933D4]
+	(No symbol) [0x00007FF79A793562]
+	(No symbol) [0x00007FF79A782F6F]
+	BaseThreadInitThunk [0x00007FFE603C257D+29]
+	RtlUserThreadStart [0x00007FFE61FAAF28+40]
+ 
+[2024-06-30 14:37:08] [INFO] [base_page.py]/[line: 179]/[srceen_image] 截图保存的路径为 D:\githubRep\ccftest-master\web_auto\web_po\base\..\images/2024_06_30_14_37_08.png 
+[2024-06-30 14:37:08] [INFO] [base_page.py]/[line: 195]/[save_page_source] page source 文件保存的路径为 D:\githubRep\ccftest-master\web_auto\web_po\base\..\pagesource/2024_06_30_14_37_08.html 
+[2024-06-30 14:37:08] [INFO] [base_page.py]/[line: 42]/[close_browser] 关闭浏览器 
+[2024-06-30 14:47:19] [INFO] [base_page.py]/[line: 21]/[__init__] 当前页面的 driver 为 None 
+[2024-06-30 14:47:22] [INFO] [base_page.py]/[line: 53]/[open_url] 打开页面的 url 为 https://ceshiren.com/ 
+[2024-06-30 14:47:22] [INFO] [base_page.py]/[line: 64]/[find_ele] 定位单个元素，定位方式为 css selector, 定位表达式为 #search-button123 
+[2024-06-30 14:47:37] [INFO] [base_page.py]/[line: 69]/[find_ele] 单个元素没有找到 Message: no such element: Unable to locate element: {"method":"css selector","selector":"#search-button123"}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF79A811F22+60322]
+	(No symbol) [0x00007FF79A78CE99]
+	(No symbol) [0x00007FF79A647EBA]
+	(No symbol) [0x00007FF79A697676]
+	(No symbol) [0x00007FF79A69773C]
+	(No symbol) [0x00007FF79A6DE967]
+	(No symbol) [0x00007FF79A6BC25F]
+	(No symbol) [0x00007FF79A6DBC80]
+	(No symbol) [0x00007FF79A6BBFC3]
+	(No symbol) [0x00007FF79A689617]
+	(No symbol) [0x00007FF79A68A211]
+	GetHandleVerifier [0x00007FF79AB2946D+3301613]
+	GetHandleVerifier [0x00007FF79AB73693+3605267]
+	GetHandleVerifier [0x00007FF79AB69410+3563664]
+	GetHandleVerifier [0x00007FF79A8C42F6+790390]
+	(No symbol) [0x00007FF79A7974DF]
+	(No symbol) [0x00007FF79A7933D4]
+	(No symbol) [0x00007FF79A793562]
+	(No symbol) [0x00007FF79A782F6F]
+	BaseThreadInitThunk [0x00007FFE603C257D+29]
+	RtlUserThreadStart [0x00007FFE61FAAF28+40]
+ 
+[2024-06-30 14:47:37] [INFO] [base_page.py]/[line: 181]/[srceen_image] 截图保存的路径为 D:\githubRep\ccftest-master\web_auto\web_po\base\..\images/2024_06_30_14_47_37.png 
+[2024-06-30 14:47:37] [INFO] [base_page.py]/[line: 199]/[save_page_source] page source 文件保存的路径为 D:\githubRep\ccftest-master\web_auto\web_po\base\..\pagesource/2024_06_30_14_47_37.html 
+[2024-06-30 14:47:37] [INFO] [base_page.py]/[line: 42]/[close_browser] 关闭浏览器 
+[2024-06-30 14:47:40] [INFO] [base_page.py]/[line: 21]/[__init__] 当前页面的 driver 为 None 
+[2024-06-30 14:47:41] [INFO] [base_page.py]/[line: 53]/[open_url] 打开页面的 url 为 https://ceshiren.com/ 
+[2024-06-30 14:47:41] [INFO] [base_page.py]/[line: 64]/[find_ele] 定位单个元素，定位方式为 css selector, 定位表达式为 #search-button123 
+[2024-06-30 14:47:56] [INFO] [base_page.py]/[line: 69]/[find_ele] 单个元素没有找到 Message: no such element: Unable to locate element: {"method":"css selector","selector":"#search-button123"}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF79A811F22+60322]
+	(No symbol) [0x00007FF79A78CE99]
+	(No symbol) [0x00007FF79A647EBA]
+	(No symbol) [0x00007FF79A697676]
+	(No symbol) [0x00007FF79A69773C]
+	(No symbol) [0x00007FF79A6DE967]
+	(No symbol) [0x00007FF79A6BC25F]
+	(No symbol) [0x00007FF79A6DBC80]
+	(No symbol) [0x00007FF79A6BBFC3]
+	(No symbol) [0x00007FF79A689617]
+	(No symbol) [0x00007FF79A68A211]
+	GetHandleVerifier [0x00007FF79AB2946D+3301613]
+	GetHandleVerifier [0x00007FF79AB73693+3605267]
+	GetHandleVerifier [0x00007FF79AB69410+3563664]
+	GetHandleVerifier [0x00007FF79A8C42F6+790390]
+	(No symbol) [0x00007FF79A7974DF]
+	(No symbol) [0x00007FF79A7933D4]
+	(No symbol) [0x00007FF79A793562]
+	(No symbol) [0x00007FF79A782F6F]
+	BaseThreadInitThunk [0x00007FFE603C257D+29]
+	RtlUserThreadStart [0x00007FFE61FAAF28+40]
+ 
+[2024-06-30 14:47:56] [INFO] [base_page.py]/[line: 181]/[srceen_image] 截图保存的路径为 D:\githubRep\ccftest-master\web_auto\web_po\base\..\images/2024_06_30_14_47_56.png 
+[2024-06-30 14:47:56] [INFO] [base_page.py]/[line: 199]/[save_page_source] page source 文件保存的路径为 D:\githubRep\ccftest-master\web_auto\web_po\base\..\pagesource/2024_06_30_14_47_56.html 
+[2024-06-30 14:47:57] [INFO] [base_page.py]/[line: 42]/[close_browser] 关闭浏览器 
+[2024-06-30 14:47:59] [INFO] [base_page.py]/[line: 21]/[__init__] 当前页面的 driver 为 None 
+[2024-06-30 14:48:01] [INFO] [base_page.py]/[line: 53]/[open_url] 打开页面的 url 为 https://ceshiren.com/ 
+[2024-06-30 14:48:01] [INFO] [base_page.py]/[line: 64]/[find_ele] 定位单个元素，定位方式为 css selector, 定位表达式为 #search-button123 
+[2024-06-30 14:48:16] [INFO] [base_page.py]/[line: 69]/[find_ele] 单个元素没有找到 Message: no such element: Unable to locate element: {"method":"css selector","selector":"#search-button123"}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF79A811F22+60322]
+	(No symbol) [0x00007FF79A78CE99]
+	(No symbol) [0x00007FF79A647EBA]
+	(No symbol) [0x00007FF79A697676]
+	(No symbol) [0x00007FF79A69773C]
+	(No symbol) [0x00007FF79A6DE967]
+	(No symbol) [0x00007FF79A6BC25F]
+	(No symbol) [0x00007FF79A6DBC80]
+	(No symbol) [0x00007FF79A6BBFC3]
+	(No symbol) [0x00007FF79A689617]
+	(No symbol) [0x00007FF79A68A211]
+	GetHandleVerifier [0x00007FF79AB2946D+3301613]
+	GetHandleVerifier [0x00007FF79AB73693+3605267]
+	GetHandleVerifier [0x00007FF79AB69410+3563664]
+	GetHandleVerifier [0x00007FF79A8C42F6+790390]
+	(No symbol) [0x00007FF79A7974DF]
+	(No symbol) [0x00007FF79A7933D4]
+	(No symbol) [0x00007FF79A793562]
+	(No symbol) [0x00007FF79A782F6F]
+	BaseThreadInitThunk [0x00007FFE603C257D+29]
+	RtlUserThreadStart [0x00007FFE61FAAF28+40]
+ 
+[2024-06-30 14:48:16] [INFO] [base_page.py]/[line: 181]/[srceen_image] 截图保存的路径为 D:\githubRep\ccftest-master\web_auto\web_po\base\..\images/2024_06_30_14_48_16.png 
+[2024-06-30 14:48:16] [INFO] [base_page.py]/[line: 199]/[save_page_source] page source 文件保存的路径为 D:\githubRep\ccftest-master\web_auto\web_po\base\..\pagesource/2024_06_30_14_48_16.html 
+[2024-06-30 14:48:16] [INFO] [base_page.py]/[line: 42]/[close_browser] 关闭浏览器 
+[2024-06-30 14:48:18] [INFO] [base_page.py]/[line: 21]/[__init__] 当前页面的 driver 为 None 
+[2024-06-30 14:48:20] [INFO] [base_page.py]/[line: 53]/[open_url] 打开页面的 url 为 https://ceshiren.com/ 
+[2024-06-30 14:48:20] [INFO] [base_page.py]/[line: 64]/[find_ele] 定位单个元素，定位方式为 css selector, 定位表达式为 #search-button123 
+[2024-06-30 14:48:36] [INFO] [base_page.py]/[line: 69]/[find_ele] 单个元素没有找到 Message: no such element: Unable to locate element: {"method":"css selector","selector":"#search-button123"}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF79A811F22+60322]
+	(No symbol) [0x00007FF79A78CE99]
+	(No symbol) [0x00007FF79A647EBA]
+	(No symbol) [0x00007FF79A697676]
+	(No symbol) [0x00007FF79A69773C]
+	(No symbol) [0x00007FF79A6DE967]
+	(No symbol) [0x00007FF79A6BC25F]
+	(No symbol) [0x00007FF79A6DBC80]
+	(No symbol) [0x00007FF79A6BBFC3]
+	(No symbol) [0x00007FF79A689617]
+	(No symbol) [0x00007FF79A68A211]
+	GetHandleVerifier [0x00007FF79AB2946D+3301613]
+	GetHandleVerifier [0x00007FF79AB73693+3605267]
+	GetHandleVerifier [0x00007FF79AB69410+3563664]
+	GetHandleVerifier [0x00007FF79A8C42F6+790390]
+	(No symbol) [0x00007FF79A7974DF]
+	(No symbol) [0x00007FF79A7933D4]
+	(No symbol) [0x00007FF79A793562]
+	(No symbol) [0x00007FF79A782F6F]
+	BaseThreadInitThunk [0x00007FFE603C257D+29]
+	RtlUserThreadStart [0x00007FFE61FAAF28+40]
+ 
+[2024-06-30 14:48:36] [INFO] [base_page.py]/[line: 181]/[srceen_image] 截图保存的路径为 D:\githubRep\ccftest-master\web_auto\web_po\base\..\images/2024_06_30_14_48_36.png 
+[2024-06-30 14:48:36] [INFO] [base_page.py]/[line: 199]/[save_page_source] page source 文件保存的路径为 D:\githubRep\ccftest-master\web_auto\web_po\base\..\pagesource/2024_06_30_14_48_36.html 
+[2024-06-30 14:48:36] [INFO] [base_page.py]/[line: 42]/[close_browser] 关闭浏览器 
+[2024-06-30 14:50:57] [INFO] [base_page.py]/[line: 21]/[__init__] 当前页面的 driver 为 None 
+[2024-06-30 14:51:00] [INFO] [base_page.py]/[line: 53]/[open_url] 打开页面的 url 为 https://ceshiren.com/ 
+[2024-06-30 14:51:00] [INFO] [base_page.py]/[line: 64]/[find_ele] 定位单个元素，定位方式为 css selector, 定位表达式为 #search-button123 
+[2024-06-30 14:51:15] [INFO] [base_page.py]/[line: 69]/[find_ele] 单个元素没有找到 Message: no such element: Unable to locate element: {"method":"css selector","selector":"#search-button123"}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF79A811F22+60322]
+	(No symbol) [0x00007FF79A78CE99]
+	(No symbol) [0x00007FF79A647EBA]
+	(No symbol) [0x00007FF79A697676]
+	(No symbol) [0x00007FF79A69773C]
+	(No symbol) [0x00007FF79A6DE967]
+	(No symbol) [0x00007FF79A6BC25F]
+	(No symbol) [0x00007FF79A6DBC80]
+	(No symbol) [0x00007FF79A6BBFC3]
+	(No symbol) [0x00007FF79A689617]
+	(No symbol) [0x00007FF79A68A211]
+	GetHandleVerifier [0x00007FF79AB2946D+3301613]
+	GetHandleVerifier [0x00007FF79AB73693+3605267]
+	GetHandleVerifier [0x00007FF79AB69410+3563664]
+	GetHandleVerifier [0x00007FF79A8C42F6+790390]
+	(No symbol) [0x00007FF79A7974DF]
+	(No symbol) [0x00007FF79A7933D4]
+	(No symbol) [0x00007FF79A793562]
+	(No symbol) [0x00007FF79A782F6F]
+	BaseThreadInitThunk [0x00007FFE603C257D+29]
+	RtlUserThreadStart [0x00007FFE61FAAF28+40]
+ 
+[2024-06-30 14:51:15] [INFO] [base_page.py]/[line: 181]/[srceen_image] 截图保存的路径为 D:\githubRep\ccftest-master\web_auto\web_po\base\..\images/2024_06_30_14_51_15.png 
+[2024-06-30 14:51:15] [INFO] [base_page.py]/[line: 199]/[save_page_source] page source 文件保存的路径为 D:\githubRep\ccftest-master\web_auto\web_po\base\..\pagesource/2024_06_30_14_51_15.html 
+[2024-06-30 14:51:15] [INFO] [base_page.py]/[line: 42]/[close_browser] 关闭浏览器 
+[2024-06-30 14:51:17] [INFO] [base_page.py]/[line: 21]/[__init__] 当前页面的 driver 为 None 
+[2024-06-30 14:51:19] [INFO] [base_page.py]/[line: 53]/[open_url] 打开页面的 url 为 https://ceshiren.com/ 
+[2024-06-30 14:51:19] [INFO] [base_page.py]/[line: 64]/[find_ele] 定位单个元素，定位方式为 css selector, 定位表达式为 #search-button123 
+[2024-06-30 14:51:34] [INFO] [base_page.py]/[line: 69]/[find_ele] 单个元素没有找到 Message: no such element: Unable to locate element: {"method":"css selector","selector":"#search-button123"}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF79A811F22+60322]
+	(No symbol) [0x00007FF79A78CE99]
+	(No symbol) [0x00007FF79A647EBA]
+	(No symbol) [0x00007FF79A697676]
+	(No symbol) [0x00007FF79A69773C]
+	(No symbol) [0x00007FF79A6DE967]
+	(No symbol) [0x00007FF79A6BC25F]
+	(No symbol) [0x00007FF79A6DBC80]
+	(No symbol) [0x00007FF79A6BBFC3]
+	(No symbol) [0x00007FF79A689617]
+	(No symbol) [0x00007FF79A68A211]
+	GetHandleVerifier [0x00007FF79AB2946D+3301613]
+	GetHandleVerifier [0x00007FF79AB73693+3605267]
+	GetHandleVerifier [0x00007FF79AB69410+3563664]
+	GetHandleVerifier [0x00007FF79A8C42F6+790390]
+	(No symbol) [0x00007FF79A7974DF]
+	(No symbol) [0x00007FF79A7933D4]
+	(No symbol) [0x00007FF79A793562]
+	(No symbol) [0x00007FF79A782F6F]
+	BaseThreadInitThunk [0x00007FFE603C257D+29]
+	RtlUserThreadStart [0x00007FFE61FAAF28+40]
+ 
+[2024-06-30 14:51:34] [INFO] [base_page.py]/[line: 181]/[srceen_image] 截图保存的路径为 D:\githubRep\ccftest-master\web_auto\web_po\base\..\images/2024_06_30_14_51_34.png 
+[2024-06-30 14:51:34] [INFO] [base_page.py]/[line: 199]/[save_page_source] page source 文件保存的路径为 D:\githubRep\ccftest-master\web_auto\web_po\base\..\pagesource/2024_06_30_14_51_34.html 
+[2024-06-30 14:51:34] [INFO] [base_page.py]/[line: 42]/[close_browser] 关闭浏览器 
+[2024-06-30 14:51:37] [INFO] [base_page.py]/[line: 21]/[__init__] 当前页面的 driver 为 None 
+[2024-06-30 14:51:39] [INFO] [base_page.py]/[line: 53]/[open_url] 打开页面的 url 为 https://ceshiren.com/ 
+[2024-06-30 14:51:39] [INFO] [base_page.py]/[line: 64]/[find_ele] 定位单个元素，定位方式为 css selector, 定位表达式为 #search-button123 
+[2024-06-30 14:51:54] [INFO] [base_page.py]/[line: 69]/[find_ele] 单个元素没有找到 Message: no such element: Unable to locate element: {"method":"css selector","selector":"#search-button123"}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF79A811F22+60322]
+	(No symbol) [0x00007FF79A78CE99]
+	(No symbol) [0x00007FF79A647EBA]
+	(No symbol) [0x00007FF79A697676]
+	(No symbol) [0x00007FF79A69773C]
+	(No symbol) [0x00007FF79A6DE967]
+	(No symbol) [0x00007FF79A6BC25F]
+	(No symbol) [0x00007FF79A6DBC80]
+	(No symbol) [0x00007FF79A6BBFC3]
+	(No symbol) [0x00007FF79A689617]
+	(No symbol) [0x00007FF79A68A211]
+	GetHandleVerifier [0x00007FF79AB2946D+3301613]
+	GetHandleVerifier [0x00007FF79AB73693+3605267]
+	GetHandleVerifier [0x00007FF79AB69410+3563664]
+	GetHandleVerifier [0x00007FF79A8C42F6+790390]
+	(No symbol) [0x00007FF79A7974DF]
+	(No symbol) [0x00007FF79A7933D4]
+	(No symbol) [0x00007FF79A793562]
+	(No symbol) [0x00007FF79A782F6F]
+	BaseThreadInitThunk [0x00007FFE603C257D+29]
+	RtlUserThreadStart [0x00007FFE61FAAF28+40]
+ 
+[2024-06-30 14:51:54] [INFO] [base_page.py]/[line: 181]/[srceen_image] 截图保存的路径为 D:\githubRep\ccftest-master\web_auto\web_po\base\..\images/2024_06_30_14_51_54.png 
+[2024-06-30 14:51:54] [INFO] [base_page.py]/[line: 199]/[save_page_source] page source 文件保存的路径为 D:\githubRep\ccftest-master\web_auto\web_po\base\..\pagesource/2024_06_30_14_51_54.html 
+[2024-06-30 14:51:54] [INFO] [base_page.py]/[line: 42]/[close_browser] 关闭浏览器 
+[2024-06-30 14:51:56] [INFO] [base_page.py]/[line: 21]/[__init__] 当前页面的 driver 为 None 
+[2024-06-30 14:51:58] [INFO] [base_page.py]/[line: 53]/[open_url] 打开页面的 url 为 https://ceshiren.com/ 
+[2024-06-30 14:51:58] [INFO] [base_page.py]/[line: 64]/[find_ele] 定位单个元素，定位方式为 css selector, 定位表达式为 #search-button123 
+[2024-06-30 14:52:13] [INFO] [base_page.py]/[line: 69]/[find_ele] 单个元素没有找到 Message: no such element: Unable to locate element: {"method":"css selector","selector":"#search-button123"}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF79A811F22+60322]
+	(No symbol) [0x00007FF79A78CE99]
+	(No symbol) [0x00007FF79A647EBA]
+	(No symbol) [0x00007FF79A697676]
+	(No symbol) [0x00007FF79A69773C]
+	(No symbol) [0x00007FF79A6DE967]
+	(No symbol) [0x00007FF79A6BC25F]
+	(No symbol) [0x00007FF79A6DBC80]
+	(No symbol) [0x00007FF79A6BBFC3]
+	(No symbol) [0x00007FF79A689617]
+	(No symbol) [0x00007FF79A68A211]
+	GetHandleVerifier [0x00007FF79AB2946D+3301613]
+	GetHandleVerifier [0x00007FF79AB73693+3605267]
+	GetHandleVerifier [0x00007FF79AB69410+3563664]
+	GetHandleVerifier [0x00007FF79A8C42F6+790390]
+	(No symbol) [0x00007FF79A7974DF]
+	(No symbol) [0x00007FF79A7933D4]
+	(No symbol) [0x00007FF79A793562]
+	(No symbol) [0x00007FF79A782F6F]
+	BaseThreadInitThunk [0x00007FFE603C257D+29]
+	RtlUserThreadStart [0x00007FFE61FAAF28+40]
+ 
+[2024-06-30 14:52:13] [INFO] [base_page.py]/[line: 181]/[srceen_image] 截图保存的路径为 D:\githubRep\ccftest-master\web_auto\web_po\base\..\images/2024_06_30_14_52_13.png 
+[2024-06-30 14:52:13] [INFO] [base_page.py]/[line: 199]/[save_page_source] page source 文件保存的路径为 D:\githubRep\ccftest-master\web_auto\web_po\base\..\pagesource/2024_06_30_14_52_13.html 
+[2024-06-30 14:52:13] [INFO] [base_page.py]/[line: 42]/[close_browser] 关闭浏览器 
+[2024-06-30 14:55:23] [INFO] [base_page.py]/[line: 21]/[__init__] 当前页面的 driver 为 None 
+[2024-06-30 14:55:25] [INFO] [base_page.py]/[line: 53]/[open_url] 打开页面的 url 为 https://ceshiren.com/ 
+[2024-06-30 14:55:25] [INFO] [base_page.py]/[line: 64]/[find_ele] 定位单个元素，定位方式为 css selector, 定位表达式为 #search-button123 
+[2024-06-30 14:55:40] [INFO] [base_page.py]/[line: 69]/[find_ele] 单个元素没有找到 Message: no such element: Unable to locate element: {"method":"css selector","selector":"#search-button123"}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF79A811F22+60322]
+	(No symbol) [0x00007FF79A78CE99]
+	(No symbol) [0x00007FF79A647EBA]
+	(No symbol) [0x00007FF79A697676]
+	(No symbol) [0x00007FF79A69773C]
+	(No symbol) [0x00007FF79A6DE967]
+	(No symbol) [0x00007FF79A6BC25F]
+	(No symbol) [0x00007FF79A6DBC80]
+	(No symbol) [0x00007FF79A6BBFC3]
+	(No symbol) [0x00007FF79A689617]
+	(No symbol) [0x00007FF79A68A211]
+	GetHandleVerifier [0x00007FF79AB2946D+3301613]
+	GetHandleVerifier [0x00007FF79AB73693+3605267]
+	GetHandleVerifier [0x00007FF79AB69410+3563664]
+	GetHandleVerifier [0x00007FF79A8C42F6+790390]
+	(No symbol) [0x00007FF79A7974DF]
+	(No symbol) [0x00007FF79A7933D4]
+	(No symbol) [0x00007FF79A793562]
+	(No symbol) [0x00007FF79A782F6F]
+	BaseThreadInitThunk [0x00007FFE603C257D+29]
+	RtlUserThreadStart [0x00007FFE61FAAF28+40]
+ 
+[2024-06-30 14:55:40] [INFO] [base_page.py]/[line: 181]/[srceen_image] 截图保存的路径为 D:\githubRep\ccftest-master\web_auto\web_po\base\..\images\2024_06_30_14_55_40.png 
+[2024-06-30 14:55:40] [INFO] [base_page.py]/[line: 199]/[save_page_source] page source 文件保存的路径为 D:\githubRep\ccftest-master\web_auto\web_po\base\..\pagesource\2024_06_30_14_55_40.html 
+[2024-06-30 14:55:40] [INFO] [base_page.py]/[line: 42]/[close_browser] 关闭浏览器 
+[2024-06-30 14:55:43] [INFO] [base_page.py]/[line: 21]/[__init__] 当前页面的 driver 为 None 
+[2024-06-30 14:55:44] [INFO] [base_page.py]/[line: 53]/[open_url] 打开页面的 url 为 https://ceshiren.com/ 
+[2024-06-30 14:55:44] [INFO] [base_page.py]/[line: 64]/[find_ele] 定位单个元素，定位方式为 css selector, 定位表达式为 #search-button123 
+[2024-06-30 14:55:59] [INFO] [base_page.py]/[line: 69]/[find_ele] 单个元素没有找到 Message: no such element: Unable to locate element: {"method":"css selector","selector":"#search-button123"}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF79A811F22+60322]
+	(No symbol) [0x00007FF79A78CE99]
+	(No symbol) [0x00007FF79A647EBA]
+	(No symbol) [0x00007FF79A697676]
+	(No symbol) [0x00007FF79A69773C]
+	(No symbol) [0x00007FF79A6DE967]
+	(No symbol) [0x00007FF79A6BC25F]
+	(No symbol) [0x00007FF79A6DBC80]
+	(No symbol) [0x00007FF79A6BBFC3]
+	(No symbol) [0x00007FF79A689617]
+	(No symbol) [0x00007FF79A68A211]
+	GetHandleVerifier [0x00007FF79AB2946D+3301613]
+	GetHandleVerifier [0x00007FF79AB73693+3605267]
+	GetHandleVerifier [0x00007FF79AB69410+3563664]
+	GetHandleVerifier [0x00007FF79A8C42F6+790390]
+	(No symbol) [0x00007FF79A7974DF]
+	(No symbol) [0x00007FF79A7933D4]
+	(No symbol) [0x00007FF79A793562]
+	(No symbol) [0x00007FF79A782F6F]
+	BaseThreadInitThunk [0x00007FFE603C257D+29]
+	RtlUserThreadStart [0x00007FFE61FAAF28+40]
+ 
+[2024-06-30 14:55:59] [INFO] [base_page.py]/[line: 181]/[srceen_image] 截图保存的路径为 D:\githubRep\ccftest-master\web_auto\web_po\base\..\images\2024_06_30_14_55_59.png 
+[2024-06-30 14:56:00] [INFO] [base_page.py]/[line: 199]/[save_page_source] page source 文件保存的路径为 D:\githubRep\ccftest-master\web_auto\web_po\base\..\pagesource\2024_06_30_14_56_00.html 
+[2024-06-30 14:56:00] [INFO] [base_page.py]/[line: 42]/[close_browser] 关闭浏览器 
+[2024-06-30 14:56:02] [INFO] [base_page.py]/[line: 21]/[__init__] 当前页面的 driver 为 None 
+[2024-06-30 14:56:05] [INFO] [base_page.py]/[line: 53]/[open_url] 打开页面的 url 为 https://ceshiren.com/ 
+[2024-06-30 14:56:05] [INFO] [base_page.py]/[line: 64]/[find_ele] 定位单个元素，定位方式为 css selector, 定位表达式为 #search-button123 
+[2024-06-30 14:56:20] [INFO] [base_page.py]/[line: 69]/[find_ele] 单个元素没有找到 Message: no such element: Unable to locate element: {"method":"css selector","selector":"#search-button123"}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF79A811F22+60322]
+	(No symbol) [0x00007FF79A78CE99]
+	(No symbol) [0x00007FF79A647EBA]
+	(No symbol) [0x00007FF79A697676]
+	(No symbol) [0x00007FF79A69773C]
+	(No symbol) [0x00007FF79A6DE967]
+	(No symbol) [0x00007FF79A6BC25F]
+	(No symbol) [0x00007FF79A6DBC80]
+	(No symbol) [0x00007FF79A6BBFC3]
+	(No symbol) [0x00007FF79A689617]
+	(No symbol) [0x00007FF79A68A211]
+	GetHandleVerifier [0x00007FF79AB2946D+3301613]
+	GetHandleVerifier [0x00007FF79AB73693+3605267]
+	GetHandleVerifier [0x00007FF79AB69410+3563664]
+	GetHandleVerifier [0x00007FF79A8C42F6+790390]
+	(No symbol) [0x00007FF79A7974DF]
+	(No symbol) [0x00007FF79A7933D4]
+	(No symbol) [0x00007FF79A793562]
+	(No symbol) [0x00007FF79A782F6F]
+	BaseThreadInitThunk [0x00007FFE603C257D+29]
+	RtlUserThreadStart [0x00007FFE61FAAF28+40]
+ 
+[2024-06-30 14:56:20] [INFO] [base_page.py]/[line: 181]/[srceen_image] 截图保存的路径为 D:\githubRep\ccftest-master\web_auto\web_po\base\..\images\2024_06_30_14_56_20.png 
+[2024-06-30 14:56:20] [INFO] [base_page.py]/[line: 199]/[save_page_source] page source 文件保存的路径为 D:\githubRep\ccftest-master\web_auto\web_po\base\..\pagesource\2024_06_30_14_56_20.html 
+[2024-06-30 14:56:20] [INFO] [base_page.py]/[line: 42]/[close_browser] 关闭浏览器 
+[2024-06-30 14:56:22] [INFO] [base_page.py]/[line: 21]/[__init__] 当前页面的 driver 为 None 
+[2024-06-30 14:56:24] [INFO] [base_page.py]/[line: 53]/[open_url] 打开页面的 url 为 https://ceshiren.com/ 
+[2024-06-30 14:56:24] [INFO] [base_page.py]/[line: 64]/[find_ele] 定位单个元素，定位方式为 css selector, 定位表达式为 #search-button123 
+[2024-06-30 14:56:39] [INFO] [base_page.py]/[line: 69]/[find_ele] 单个元素没有找到 Message: no such element: Unable to locate element: {"method":"css selector","selector":"#search-button123"}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF79A811F22+60322]
+	(No symbol) [0x00007FF79A78CE99]
+	(No symbol) [0x00007FF79A647EBA]
+	(No symbol) [0x00007FF79A697676]
+	(No symbol) [0x00007FF79A69773C]
+	(No symbol) [0x00007FF79A6DE967]
+	(No symbol) [0x00007FF79A6BC25F]
+	(No symbol) [0x00007FF79A6DBC80]
+	(No symbol) [0x00007FF79A6BBFC3]
+	(No symbol) [0x00007FF79A689617]
+	(No symbol) [0x00007FF79A68A211]
+	GetHandleVerifier [0x00007FF79AB2946D+3301613]
+	GetHandleVerifier [0x00007FF79AB73693+3605267]
+	GetHandleVerifier [0x00007FF79AB69410+3563664]
+	GetHandleVerifier [0x00007FF79A8C42F6+790390]
+	(No symbol) [0x00007FF79A7974DF]
+	(No symbol) [0x00007FF79A7933D4]
+	(No symbol) [0x00007FF79A793562]
+	(No symbol) [0x00007FF79A782F6F]
+	BaseThreadInitThunk [0x00007FFE603C257D+29]
+	RtlUserThreadStart [0x00007FFE61FAAF28+40]
+ 
+[2024-06-30 14:56:39] [INFO] [base_page.py]/[line: 181]/[srceen_image] 截图保存的路径为 D:\githubRep\ccftest-master\web_auto\web_po\base\..\images\2024_06_30_14_56_39.png 
+[2024-06-30 14:56:40] [INFO] [base_page.py]/[line: 199]/[save_page_source] page source 文件保存的路径为 D:\githubRep\ccftest-master\web_auto\web_po\base\..\pagesource\2024_06_30_14_56_40.html 
+[2024-06-30 14:56:40] [INFO] [base_page.py]/[line: 42]/[close_browser] 关闭浏览器 
+[2024-06-30 14:57:45] [INFO] [base_page.py]/[line: 21]/[__init__] 当前页面的 driver 为 None 
+[2024-06-30 14:57:48] [INFO] [base_page.py]/[line: 53]/[open_url] 打开页面的 url 为 https://ceshiren.com/ 
+[2024-06-30 14:57:48] [INFO] [base_page.py]/[line: 64]/[find_ele] 定位单个元素，定位方式为 css selector, 定位表达式为 #search-button123 
+[2024-06-30 14:58:03] [INFO] [base_page.py]/[line: 69]/[find_ele] 单个元素没有找到 Message: no such element: Unable to locate element: {"method":"css selector","selector":"#search-button123"}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF79A811F22+60322]
+	(No symbol) [0x00007FF79A78CE99]
+	(No symbol) [0x00007FF79A647EBA]
+	(No symbol) [0x00007FF79A697676]
+	(No symbol) [0x00007FF79A69773C]
+	(No symbol) [0x00007FF79A6DE967]
+	(No symbol) [0x00007FF79A6BC25F]
+	(No symbol) [0x00007FF79A6DBC80]
+	(No symbol) [0x00007FF79A6BBFC3]
+	(No symbol) [0x00007FF79A689617]
+	(No symbol) [0x00007FF79A68A211]
+	GetHandleVerifier [0x00007FF79AB2946D+3301613]
+	GetHandleVerifier [0x00007FF79AB73693+3605267]
+	GetHandleVerifier [0x00007FF79AB69410+3563664]
+	GetHandleVerifier [0x00007FF79A8C42F6+790390]
+	(No symbol) [0x00007FF79A7974DF]
+	(No symbol) [0x00007FF79A7933D4]
+	(No symbol) [0x00007FF79A793562]
+	(No symbol) [0x00007FF79A782F6F]
+	BaseThreadInitThunk [0x00007FFE603C257D+29]
+	RtlUserThreadStart [0x00007FFE61FAAF28+40]
+ 
+[2024-06-30 14:58:03] [INFO] [base_page.py]/[line: 181]/[srceen_image] 截图保存的路径为 D:\githubRep\ccftest-master\web_auto\web_po\base\..\images\2024_06_30_14_58_03.png 
+[2024-06-30 14:58:03] [INFO] [base_page.py]/[line: 199]/[save_page_source] page source 文件保存的路径为 D:\githubRep\ccftest-master\web_auto\web_po\base\..\pagesource\2024_06_30_14_58_03.html 
+[2024-06-30 14:58:03] [INFO] [base_page.py]/[line: 42]/[close_browser] 关闭浏览器 
+[2024-06-30 14:58:05] [INFO] [base_page.py]/[line: 21]/[__init__] 当前页面的 driver 为 None 
+[2024-06-30 14:58:08] [INFO] [base_page.py]/[line: 53]/[open_url] 打开页面的 url 为 https://ceshiren.com/ 
+[2024-06-30 14:58:08] [INFO] [base_page.py]/[line: 64]/[find_ele] 定位单个元素，定位方式为 css selector, 定位表达式为 #search-button123 
+[2024-06-30 14:58:23] [INFO] [base_page.py]/[line: 69]/[find_ele] 单个元素没有找到 Message: no such element: Unable to locate element: {"method":"css selector","selector":"#search-button123"}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF79A811F22+60322]
+	(No symbol) [0x00007FF79A78CE99]
+	(No symbol) [0x00007FF79A647EBA]
+	(No symbol) [0x00007FF79A697676]
+	(No symbol) [0x00007FF79A69773C]
+	(No symbol) [0x00007FF79A6DE967]
+	(No symbol) [0x00007FF79A6BC25F]
+	(No symbol) [0x00007FF79A6DBC80]
+	(No symbol) [0x00007FF79A6BBFC3]
+	(No symbol) [0x00007FF79A689617]
+	(No symbol) [0x00007FF79A68A211]
+	GetHandleVerifier [0x00007FF79AB2946D+3301613]
+	GetHandleVerifier [0x00007FF79AB73693+3605267]
+	GetHandleVerifier [0x00007FF79AB69410+3563664]
+	GetHandleVerifier [0x00007FF79A8C42F6+790390]
+	(No symbol) [0x00007FF79A7974DF]
+	(No symbol) [0x00007FF79A7933D4]
+	(No symbol) [0x00007FF79A793562]
+	(No symbol) [0x00007FF79A782F6F]
+	BaseThreadInitThunk [0x00007FFE603C257D+29]
+	RtlUserThreadStart [0x00007FFE61FAAF28+40]
+ 
+[2024-06-30 14:58:23] [INFO] [base_page.py]/[line: 181]/[srceen_image] 截图保存的路径为 D:\githubRep\ccftest-master\web_auto\web_po\base\..\images\2024_06_30_14_58_23.png 
+[2024-06-30 14:58:23] [INFO] [base_page.py]/[line: 199]/[save_page_source] page source 文件保存的路径为 D:\githubRep\ccftest-master\web_auto\web_po\base\..\pagesource\2024_06_30_14_58_23.html 
+[2024-06-30 14:58:23] [INFO] [base_page.py]/[line: 42]/[close_browser] 关闭浏览器 
+[2024-06-30 14:58:25] [INFO] [base_page.py]/[line: 21]/[__init__] 当前页面的 driver 为 None 
+[2024-06-30 14:58:28] [INFO] [base_page.py]/[line: 53]/[open_url] 打开页面的 url 为 https://ceshiren.com/ 
+[2024-06-30 14:58:28] [INFO] [base_page.py]/[line: 64]/[find_ele] 定位单个元素，定位方式为 css selector, 定位表达式为 #search-button123 
+[2024-06-30 14:58:43] [INFO] [base_page.py]/[line: 69]/[find_ele] 单个元素没有找到 Message: no such element: Unable to locate element: {"method":"css selector","selector":"#search-button123"}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF79A811F22+60322]
+	(No symbol) [0x00007FF79A78CE99]
+	(No symbol) [0x00007FF79A647EBA]
+	(No symbol) [0x00007FF79A697676]
+	(No symbol) [0x00007FF79A69773C]
+	(No symbol) [0x00007FF79A6DE967]
+	(No symbol) [0x00007FF79A6BC25F]
+	(No symbol) [0x00007FF79A6DBC80]
+	(No symbol) [0x00007FF79A6BBFC3]
+	(No symbol) [0x00007FF79A689617]
+	(No symbol) [0x00007FF79A68A211]
+	GetHandleVerifier [0x00007FF79AB2946D+3301613]
+	GetHandleVerifier [0x00007FF79AB73693+3605267]
+	GetHandleVerifier [0x00007FF79AB69410+3563664]
+	GetHandleVerifier [0x00007FF79A8C42F6+790390]
+	(No symbol) [0x00007FF79A7974DF]
+	(No symbol) [0x00007FF79A7933D4]
+	(No symbol) [0x00007FF79A793562]
+	(No symbol) [0x00007FF79A782F6F]
+	BaseThreadInitThunk [0x00007FFE603C257D+29]
+	RtlUserThreadStart [0x00007FFE61FAAF28+40]
+ 
+[2024-06-30 14:58:43] [INFO] [base_page.py]/[line: 181]/[srceen_image] 截图保存的路径为 D:\githubRep\ccftest-master\web_auto\web_po\base\..\images\2024_06_30_14_58_43.png 
+[2024-06-30 14:58:43] [INFO] [base_page.py]/[line: 199]/[save_page_source] page source 文件保存的路径为 D:\githubRep\ccftest-master\web_auto\web_po\base\..\pagesource\2024_06_30_14_58_43.html 
+[2024-06-30 14:58:43] [INFO] [base_page.py]/[line: 42]/[close_browser] 关闭浏览器 
+[2024-06-30 14:58:45] [INFO] [base_page.py]/[line: 21]/[__init__] 当前页面的 driver 为 None 
+[2024-06-30 14:58:47] [INFO] [base_page.py]/[line: 53]/[open_url] 打开页面的 url 为 https://ceshiren.com/ 
+[2024-06-30 14:58:47] [INFO] [base_page.py]/[line: 64]/[find_ele] 定位单个元素，定位方式为 css selector, 定位表达式为 #search-button123 
+[2024-06-30 14:59:02] [INFO] [base_page.py]/[line: 69]/[find_ele] 单个元素没有找到 Message: no such element: Unable to locate element: {"method":"css selector","selector":"#search-button123"}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF79A811F22+60322]
+	(No symbol) [0x00007FF79A78CE99]
+	(No symbol) [0x00007FF79A647EBA]
+	(No symbol) [0x00007FF79A697676]
+	(No symbol) [0x00007FF79A69773C]
+	(No symbol) [0x00007FF79A6DE967]
+	(No symbol) [0x00007FF79A6BC25F]
+	(No symbol) [0x00007FF79A6DBC80]
+	(No symbol) [0x00007FF79A6BBFC3]
+	(No symbol) [0x00007FF79A689617]
+	(No symbol) [0x00007FF79A68A211]
+	GetHandleVerifier [0x00007FF79AB2946D+3301613]
+	GetHandleVerifier [0x00007FF79AB73693+3605267]
+	GetHandleVerifier [0x00007FF79AB69410+3563664]
+	GetHandleVerifier [0x00007FF79A8C42F6+790390]
+	(No symbol) [0x00007FF79A7974DF]
+	(No symbol) [0x00007FF79A7933D4]
+	(No symbol) [0x00007FF79A793562]
+	(No symbol) [0x00007FF79A782F6F]
+	BaseThreadInitThunk [0x00007FFE603C257D+29]
+	RtlUserThreadStart [0x00007FFE61FAAF28+40]
+ 
+[2024-06-30 14:59:02] [INFO] [base_page.py]/[line: 181]/[srceen_image] 截图保存的路径为 D:\githubRep\ccftest-master\web_auto\web_po\base\..\images\2024_06_30_14_59_02.png 
+[2024-06-30 14:59:02] [INFO] [base_page.py]/[line: 199]/[save_page_source] page source 文件保存的路径为 D:\githubRep\ccftest-master\web_auto\web_po\base\..\pagesource\2024_06_30_14_59_02.html 
+[2024-06-30 14:59:02] [INFO] [base_page.py]/[line: 42]/[close_browser] 关闭浏览器 
+[2024-06-30 15:04:48] [INFO] [base_page.py]/[line: 21]/[__init__] 当前页面的 driver 为 None 
+[2024-06-30 15:04:50] [INFO] [base_page.py]/[line: 53]/[open_url] 打开页面的 url 为 https://ceshiren.com/ 
+[2024-06-30 15:04:50] [INFO] [base_page.py]/[line: 64]/[find_ele] 定位单个元素，定位方式为 css selector, 定位表达式为 #search-button123 
+[2024-06-30 15:05:05] [INFO] [base_page.py]/[line: 69]/[find_ele] 单个元素没有找到 Message: no such element: Unable to locate element: {"method":"css selector","selector":"#search-button123"}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF79A811F22+60322]
+	(No symbol) [0x00007FF79A78CE99]
+	(No symbol) [0x00007FF79A647EBA]
+	(No symbol) [0x00007FF79A697676]
+	(No symbol) [0x00007FF79A69773C]
+	(No symbol) [0x00007FF79A6DE967]
+	(No symbol) [0x00007FF79A6BC25F]
+	(No symbol) [0x00007FF79A6DBC80]
+	(No symbol) [0x00007FF79A6BBFC3]
+	(No symbol) [0x00007FF79A689617]
+	(No symbol) [0x00007FF79A68A211]
+	GetHandleVerifier [0x00007FF79AB2946D+3301613]
+	GetHandleVerifier [0x00007FF79AB73693+3605267]
+	GetHandleVerifier [0x00007FF79AB69410+3563664]
+	GetHandleVerifier [0x00007FF79A8C42F6+790390]
+	(No symbol) [0x00007FF79A7974DF]
+	(No symbol) [0x00007FF79A7933D4]
+	(No symbol) [0x00007FF79A793562]
+	(No symbol) [0x00007FF79A782F6F]
+	BaseThreadInitThunk [0x00007FFE603C257D+29]
+	RtlUserThreadStart [0x00007FFE61FAAF28+40]
+ 
+[2024-06-30 15:05:05] [INFO] [base_page.py]/[line: 181]/[srceen_image] 截图保存的路径为 D:\githubRep\ccftest-master\web_auto\web_po\base\..\images\2024_06_30_15_05_05.png 
+[2024-06-30 15:05:05] [INFO] [base_page.py]/[line: 199]/[save_page_source] page source 文件保存的路径为 D:\githubRep\ccftest-master\web_auto\web_po\base\..\pagesource\2024_06_30_15_05_05.html 
+[2024-06-30 15:05:05] [INFO] [base_page.py]/[line: 42]/[close_browser] 关闭浏览器 
+[2024-06-30 15:05:08] [INFO] [base_page.py]/[line: 21]/[__init__] 当前页面的 driver 为 None 
+[2024-06-30 15:05:10] [INFO] [base_page.py]/[line: 53]/[open_url] 打开页面的 url 为 https://ceshiren.com/ 
+[2024-06-30 15:05:10] [INFO] [base_page.py]/[line: 64]/[find_ele] 定位单个元素，定位方式为 css selector, 定位表达式为 #search-button123 
+[2024-06-30 15:05:25] [INFO] [base_page.py]/[line: 69]/[find_ele] 单个元素没有找到 Message: no such element: Unable to locate element: {"method":"css selector","selector":"#search-button123"}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF79A811F22+60322]
+	(No symbol) [0x00007FF79A78CE99]
+	(No symbol) [0x00007FF79A647EBA]
+	(No symbol) [0x00007FF79A697676]
+	(No symbol) [0x00007FF79A69773C]
+	(No symbol) [0x00007FF79A6DE967]
+	(No symbol) [0x00007FF79A6BC25F]
+	(No symbol) [0x00007FF79A6DBC80]
+	(No symbol) [0x00007FF79A6BBFC3]
+	(No symbol) [0x00007FF79A689617]
+	(No symbol) [0x00007FF79A68A211]
+	GetHandleVerifier [0x00007FF79AB2946D+3301613]
+	GetHandleVerifier [0x00007FF79AB73693+3605267]
+	GetHandleVerifier [0x00007FF79AB69410+3563664]
+	GetHandleVerifier [0x00007FF79A8C42F6+790390]
+	(No symbol) [0x00007FF79A7974DF]
+	(No symbol) [0x00007FF79A7933D4]
+	(No symbol) [0x00007FF79A793562]
+	(No symbol) [0x00007FF79A782F6F]
+	BaseThreadInitThunk [0x00007FFE603C257D+29]
+	RtlUserThreadStart [0x00007FFE61FAAF28+40]
+ 
+[2024-06-30 15:05:25] [INFO] [base_page.py]/[line: 181]/[srceen_image] 截图保存的路径为 D:\githubRep\ccftest-master\web_auto\web_po\base\..\images\2024_06_30_15_05_25.png 
+[2024-06-30 15:05:25] [INFO] [base_page.py]/[line: 199]/[save_page_source] page source 文件保存的路径为 D:\githubRep\ccftest-master\web_auto\web_po\base\..\pagesource\2024_06_30_15_05_25.html 
+[2024-06-30 15:05:25] [INFO] [base_page.py]/[line: 42]/[close_browser] 关闭浏览器 
+[2024-06-30 15:05:27] [INFO] [base_page.py]/[line: 21]/[__init__] 当前页面的 driver 为 None 
+[2024-06-30 15:05:29] [INFO] [base_page.py]/[line: 53]/[open_url] 打开页面的 url 为 https://ceshiren.com/ 
+[2024-06-30 15:05:29] [INFO] [base_page.py]/[line: 64]/[find_ele] 定位单个元素，定位方式为 css selector, 定位表达式为 #search-button123 
+[2024-06-30 15:05:45] [INFO] [base_page.py]/[line: 69]/[find_ele] 单个元素没有找到 Message: no such element: Unable to locate element: {"method":"css selector","selector":"#search-button123"}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF79A811F22+60322]
+	(No symbol) [0x00007FF79A78CE99]
+	(No symbol) [0x00007FF79A647EBA]
+	(No symbol) [0x00007FF79A697676]
+	(No symbol) [0x00007FF79A69773C]
+	(No symbol) [0x00007FF79A6DE967]
+	(No symbol) [0x00007FF79A6BC25F]
+	(No symbol) [0x00007FF79A6DBC80]
+	(No symbol) [0x00007FF79A6BBFC3]
+	(No symbol) [0x00007FF79A689617]
+	(No symbol) [0x00007FF79A68A211]
+	GetHandleVerifier [0x00007FF79AB2946D+3301613]
+	GetHandleVerifier [0x00007FF79AB73693+3605267]
+	GetHandleVerifier [0x00007FF79AB69410+3563664]
+	GetHandleVerifier [0x00007FF79A8C42F6+790390]
+	(No symbol) [0x00007FF79A7974DF]
+	(No symbol) [0x00007FF79A7933D4]
+	(No symbol) [0x00007FF79A793562]
+	(No symbol) [0x00007FF79A782F6F]
+	BaseThreadInitThunk [0x00007FFE603C257D+29]
+	RtlUserThreadStart [0x00007FFE61FAAF28+40]
+ 
+[2024-06-30 15:05:45] [INFO] [base_page.py]/[line: 181]/[srceen_image] 截图保存的路径为 D:\githubRep\ccftest-master\web_auto\web_po\base\..\images\2024_06_30_15_05_45.png 
+[2024-06-30 15:05:45] [INFO] [base_page.py]/[line: 199]/[save_page_source] page source 文件保存的路径为 D:\githubRep\ccftest-master\web_auto\web_po\base\..\pagesource\2024_06_30_15_05_45.html 
+[2024-06-30 15:05:45] [INFO] [base_page.py]/[line: 42]/[close_browser] 关闭浏览器 
+[2024-06-30 15:05:47] [INFO] [base_page.py]/[line: 21]/[__init__] 当前页面的 driver 为 None 
+[2024-06-30 15:05:49] [INFO] [base_page.py]/[line: 53]/[open_url] 打开页面的 url 为 https://ceshiren.com/ 
+[2024-06-30 15:05:49] [INFO] [base_page.py]/[line: 64]/[find_ele] 定位单个元素，定位方式为 css selector, 定位表达式为 #search-button123 
+[2024-06-30 15:06:04] [INFO] [base_page.py]/[line: 69]/[find_ele] 单个元素没有找到 Message: no such element: Unable to locate element: {"method":"css selector","selector":"#search-button123"}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF79A811F22+60322]
+	(No symbol) [0x00007FF79A78CE99]
+	(No symbol) [0x00007FF79A647EBA]
+	(No symbol) [0x00007FF79A697676]
+	(No symbol) [0x00007FF79A69773C]
+	(No symbol) [0x00007FF79A6DE967]
+	(No symbol) [0x00007FF79A6BC25F]
+	(No symbol) [0x00007FF79A6DBC80]
+	(No symbol) [0x00007FF79A6BBFC3]
+	(No symbol) [0x00007FF79A689617]
+	(No symbol) [0x00007FF79A68A211]
+	GetHandleVerifier [0x00007FF79AB2946D+3301613]
+	GetHandleVerifier [0x00007FF79AB73693+3605267]
+	GetHandleVerifier [0x00007FF79AB69410+3563664]
+	GetHandleVerifier [0x00007FF79A8C42F6+790390]
+	(No symbol) [0x00007FF79A7974DF]
+	(No symbol) [0x00007FF79A7933D4]
+	(No symbol) [0x00007FF79A793562]
+	(No symbol) [0x00007FF79A782F6F]
+	BaseThreadInitThunk [0x00007FFE603C257D+29]
+	RtlUserThreadStart [0x00007FFE61FAAF28+40]
+ 
+[2024-06-30 15:06:04] [INFO] [base_page.py]/[line: 181]/[srceen_image] 截图保存的路径为 D:\githubRep\ccftest-master\web_auto\web_po\base\..\images\2024_06_30_15_06_04.png 
+[2024-06-30 15:06:04] [INFO] [base_page.py]/[line: 199]/[save_page_source] page source 文件保存的路径为 D:\githubRep\ccftest-master\web_auto\web_po\base\..\pagesource\2024_06_30_15_06_04.html 
+[2024-06-30 15:06:04] [INFO] [base_page.py]/[line: 42]/[close_browser] 关闭浏览器 

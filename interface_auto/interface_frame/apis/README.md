@@ -1,0 +1,3 @@
+- BaseApi：send_api，对请求前后打印日志，发起请求，返回响应
+  - Ceshiren：继承BaseApi，含有变量base_url
+    - CeshirenSearch：继承BaseApi，封装search(send_api)，丰富了传参功能
