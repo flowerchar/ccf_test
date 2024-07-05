@@ -1,1 +1,1 @@
-*.html -diff -merge -cache
+*.html -diff -merge -export-ignore
