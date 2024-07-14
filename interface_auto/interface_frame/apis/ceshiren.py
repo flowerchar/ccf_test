@@ -1,6 +1,4 @@
-"""
  
-"""
 from interface_auto.interface_frame.apis.base_api import BaseApi
 
 # 定义产品特性

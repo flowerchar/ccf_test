@@ -1,6 +1,4 @@
-"""
  
-"""
 import requests
 
 from interface_auto.interface_frame.utils.log_util import logger

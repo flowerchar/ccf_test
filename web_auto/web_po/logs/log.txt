@@ -886,3 +886,183 @@ Stacktrace:
 [2024-06-30 15:06:04] [INFO] [base_page.py]/[line: 181]/[srceen_image] 截图保存的路径为 D:\githubRep\ccftest-master\web_auto\web_po\base\..\images\2024_06_30_15_06_04.png 
 [2024-06-30 15:06:04] [INFO] [base_page.py]/[line: 199]/[save_page_source] page source 文件保存的路径为 D:\githubRep\ccftest-master\web_auto\web_po\base\..\pagesource\2024_06_30_15_06_04.html 
 [2024-06-30 15:06:04] [INFO] [base_page.py]/[line: 42]/[close_browser] 关闭浏览器 
+[2024-07-14 15:40:46] [INFO] [base_page.py]/[line: 18]/[__init__] 当前页面的 driver 为 None 
+[2024-07-14 15:40:51] [INFO] [base_page.py]/[line: 50]/[open_url] 打开页面的 url 为 https://ceshiren.com/ 
+[2024-07-14 15:40:51] [INFO] [base_page.py]/[line: 61]/[find_ele] 定位单个元素，定位方式为 css selector, 定位表达式为 #search-button 
+[2024-07-14 15:40:51] [INFO] [base_page.py]/[line: 61]/[find_ele] 定位单个元素，定位方式为 id, 定位表达式为 search-term 
+[2024-07-14 15:40:51] [INFO] [base_page.py]/[line: 133]/[wait_ele_locate] 显式等待元素可以被定位，定位方式为 class name, 定位表达式为 show-advanced-search 
+[2024-07-14 15:40:51] [INFO] [base_page.py]/[line: 18]/[__init__] 当前页面的 driver 为 <selenium.webdriver.chrome.webdriver.WebDriver (session="560f1bacf78db821c7e6c49fc3930db3")> 
+[2024-07-14 15:40:51] [INFO] [base_page.py]/[line: 61]/[find_ele] 定位单个元素，定位方式为 css selector, 定位表达式为 .search-cta 
+[2024-07-14 15:40:51] [INFO] [base_page.py]/[line: 61]/[find_ele] 定位单个元素，定位方式为 xpath, 定位表达式为 //*[@class='fps-invalid'] 
+[2024-07-14 15:40:51] [INFO] [base_page.py]/[line: 100]/[find_and_get_text] 元素的文本属性为 您的搜索词过短。 
+[2024-07-14 15:40:51] [INFO] [more_search_page.py]/[line: 64]/[get_none_msg] 提示信息为：您的搜索词过短。 
+[2024-07-14 15:40:51] [INFO] [base_page.py]/[line: 39]/[close_browser] 关闭浏览器 
+[2024-07-14 15:42:20] [INFO] [base_page.py]/[line: 18]/[__init__] 当前页面的 driver 为 None 
+[2024-07-14 15:42:22] [INFO] [base_page.py]/[line: 50]/[open_url] 打开页面的 url 为 https://ceshiren.com/ 
+[2024-07-14 15:42:22] [INFO] [base_page.py]/[line: 61]/[find_ele] 定位单个元素，定位方式为 css selector, 定位表达式为 #search-button 
+[2024-07-14 15:42:23] [INFO] [base_page.py]/[line: 61]/[find_ele] 定位单个元素，定位方式为 id, 定位表达式为 search-term 
+[2024-07-14 15:42:23] [INFO] [base_page.py]/[line: 133]/[wait_ele_locate] 显式等待元素可以被定位，定位方式为 class name, 定位表达式为 show-advanced-search 
+[2024-07-14 15:42:23] [INFO] [base_page.py]/[line: 18]/[__init__] 当前页面的 driver 为 <selenium.webdriver.chrome.webdriver.WebDriver (session="5dd2209792adb67b6f208e668ef58338")> 
+[2024-07-14 15:42:23] [INFO] [base_page.py]/[line: 147]/[wait_ele_click] 显式等待元素可以被点击，定位方式为 class name, 定位表达式为 search-link 
+[2024-07-14 15:42:24] [INFO] [base_page.py]/[line: 61]/[find_ele] 定位单个元素，定位方式为 xpath, 定位表达式为 //*[text()="确定"] 
+[2024-07-14 15:42:24] [INFO] [more_search_page.py]/[line: 40]/[get_search_result_title] 高级搜索页面下第一个标题的文本为：pytest参数化用例。标记测试用例。跳过（skip）用例。运行用例。Pytest命令行常用参数。python解释器执行pytest。pytest异常处理 
+[2024-07-14 15:42:24] [INFO] [base_page.py]/[line: 147]/[wait_ele_click] 显式等待元素可以被点击，定位方式为 class name, 定位表达式为 search-link 
+[2024-07-14 15:42:24] [INFO] [base_page.py]/[line: 18]/[__init__] 当前页面的 driver 为 <selenium.webdriver.chrome.webdriver.WebDriver (session="5dd2209792adb67b6f208e668ef58338")> 
+[2024-07-14 15:42:24] [INFO] [base_page.py]/[line: 133]/[wait_ele_locate] 显式等待元素可以被定位，定位方式为 xpath, 定位表达式为 //*[@class="fancy-title"] 
+[2024-07-14 15:42:24] [INFO] [base_page.py]/[line: 39]/[close_browser] 关闭浏览器 
+[2024-07-14 15:42:26] [INFO] [base_page.py]/[line: 18]/[__init__] 当前页面的 driver 为 None 
+[2024-07-14 15:42:29] [INFO] [base_page.py]/[line: 50]/[open_url] 打开页面的 url 为 https://ceshiren.com/ 
+[2024-07-14 15:42:29] [INFO] [base_page.py]/[line: 61]/[find_ele] 定位单个元素，定位方式为 css selector, 定位表达式为 #search-button 
+[2024-07-14 15:42:29] [INFO] [base_page.py]/[line: 61]/[find_ele] 定位单个元素，定位方式为 id, 定位表达式为 search-term 
+[2024-07-14 15:42:29] [INFO] [base_page.py]/[line: 133]/[wait_ele_locate] 显式等待元素可以被定位，定位方式为 class name, 定位表达式为 show-advanced-search 
+[2024-07-14 15:42:29] [INFO] [base_page.py]/[line: 18]/[__init__] 当前页面的 driver 为 <selenium.webdriver.chrome.webdriver.WebDriver (session="8d92dc36744fc217e3f67b96f8e26868")> 
+[2024-07-14 15:42:29] [INFO] [base_page.py]/[line: 147]/[wait_ele_click] 显式等待元素可以被点击，定位方式为 class name, 定位表达式为 search-link 
+[2024-07-14 15:42:30] [INFO] [base_page.py]/[line: 61]/[find_ele] 定位单个元素，定位方式为 xpath, 定位表达式为 //*[text()="确定"] 
+[2024-07-14 15:42:30] [INFO] [more_search_page.py]/[line: 40]/[get_search_result_title] 高级搜索页面下第一个标题的文本为：价值 25k 的面试题及其答案分享 
+[2024-07-14 15:42:30] [INFO] [base_page.py]/[line: 147]/[wait_ele_click] 显式等待元素可以被点击，定位方式为 class name, 定位表达式为 search-link 
+[2024-07-14 15:42:30] [INFO] [base_page.py]/[line: 18]/[__init__] 当前页面的 driver 为 <selenium.webdriver.chrome.webdriver.WebDriver (session="8d92dc36744fc217e3f67b96f8e26868")> 
+[2024-07-14 15:42:30] [INFO] [base_page.py]/[line: 133]/[wait_ele_locate] 显式等待元素可以被定位，定位方式为 xpath, 定位表达式为 //*[@class="fancy-title"] 
+[2024-07-14 15:42:30] [INFO] [base_page.py]/[line: 39]/[close_browser] 关闭浏览器 
+[2024-07-14 15:42:33] [INFO] [base_page.py]/[line: 18]/[__init__] 当前页面的 driver 为 None 
+[2024-07-14 15:42:36] [INFO] [base_page.py]/[line: 50]/[open_url] 打开页面的 url 为 https://ceshiren.com/ 
+[2024-07-14 15:42:36] [INFO] [base_page.py]/[line: 61]/[find_ele] 定位单个元素，定位方式为 css selector, 定位表达式为 #search-button 
+[2024-07-14 15:42:36] [INFO] [base_page.py]/[line: 61]/[find_ele] 定位单个元素，定位方式为 id, 定位表达式为 search-term 
+[2024-07-14 15:42:36] [INFO] [base_page.py]/[line: 133]/[wait_ele_locate] 显式等待元素可以被定位，定位方式为 class name, 定位表达式为 show-advanced-search 
+[2024-07-14 15:42:36] [INFO] [base_page.py]/[line: 18]/[__init__] 当前页面的 driver 为 <selenium.webdriver.chrome.webdriver.WebDriver (session="bd188157d9b7fef735e4afced196636c")> 
+[2024-07-14 15:42:36] [INFO] [base_page.py]/[line: 147]/[wait_ele_click] 显式等待元素可以被点击，定位方式为 class name, 定位表达式为 search-link 
+[2024-07-14 15:42:37] [INFO] [more_search_page.py]/[line: 40]/[get_search_result_title] 高级搜索页面下第一个标题的文本为：请教下，A目录下有B子package ,B中有C子package, 然后我在C的某文件中，要import A 下的某文件，要怎么写import 语句呢? 
+[2024-07-14 15:42:37] [INFO] [base_page.py]/[line: 147]/[wait_ele_click] 显式等待元素可以被点击，定位方式为 class name, 定位表达式为 search-link 
+[2024-07-14 15:42:38] [INFO] [base_page.py]/[line: 18]/[__init__] 当前页面的 driver 为 <selenium.webdriver.chrome.webdriver.WebDriver (session="bd188157d9b7fef735e4afced196636c")> 
+[2024-07-14 15:42:38] [INFO] [base_page.py]/[line: 133]/[wait_ele_locate] 显式等待元素可以被定位，定位方式为 xpath, 定位表达式为 //*[@class="fancy-title"] 
+[2024-07-14 15:42:38] [INFO] [base_page.py]/[line: 39]/[close_browser] 关闭浏览器 
+[2024-07-14 15:42:40] [INFO] [base_page.py]/[line: 18]/[__init__] 当前页面的 driver 为 None 
+[2024-07-14 15:42:42] [INFO] [base_page.py]/[line: 50]/[open_url] 打开页面的 url 为 https://ceshiren.com/ 
+[2024-07-14 15:42:42] [INFO] [base_page.py]/[line: 61]/[find_ele] 定位单个元素，定位方式为 css selector, 定位表达式为 #search-button 
+[2024-07-14 15:42:42] [INFO] [base_page.py]/[line: 61]/[find_ele] 定位单个元素，定位方式为 id, 定位表达式为 search-term 
+[2024-07-14 15:42:43] [INFO] [base_page.py]/[line: 133]/[wait_ele_locate] 显式等待元素可以被定位，定位方式为 class name, 定位表达式为 show-advanced-search 
+[2024-07-14 15:42:43] [INFO] [base_page.py]/[line: 18]/[__init__] 当前页面的 driver 为 <selenium.webdriver.chrome.webdriver.WebDriver (session="c9f769793ca9dc8845f7322a7931ad87")> 
+[2024-07-14 15:42:43] [INFO] [base_page.py]/[line: 147]/[wait_ele_click] 显式等待元素可以被点击，定位方式为 class name, 定位表达式为 search-link 
+[2024-07-14 15:42:44] [INFO] [more_search_page.py]/[line: 40]/[get_search_result_title] 高级搜索页面下第一个标题的文本为：appium desktop连接真机，start session，出现报错，手机上appium setting打开闪退，但是进程显示是进行中。报错内容：An unknown server-side error occurred while processing the command. Original error: Could not find a connected Android device in 20364ms. 
+[2024-07-14 15:42:44] [INFO] [base_page.py]/[line: 147]/[wait_ele_click] 显式等待元素可以被点击，定位方式为 class name, 定位表达式为 search-link 
+[2024-07-14 15:42:44] [INFO] [base_page.py]/[line: 18]/[__init__] 当前页面的 driver 为 <selenium.webdriver.chrome.webdriver.WebDriver (session="c9f769793ca9dc8845f7322a7931ad87")> 
+[2024-07-14 15:42:44] [INFO] [base_page.py]/[line: 133]/[wait_ele_locate] 显式等待元素可以被定位，定位方式为 xpath, 定位表达式为 //*[@class="fancy-title"] 
+[2024-07-14 15:42:44] [INFO] [base_page.py]/[line: 39]/[close_browser] 关闭浏览器 
+[2024-07-14 15:42:46] [INFO] [base_page.py]/[line: 18]/[__init__] 当前页面的 driver 为 None 
+[2024-07-14 15:42:49] [INFO] [base_page.py]/[line: 50]/[open_url] 打开页面的 url 为 https://ceshiren.com/ 
+[2024-07-14 15:42:49] [INFO] [base_page.py]/[line: 61]/[find_ele] 定位单个元素，定位方式为 css selector, 定位表达式为 #search-button 
+[2024-07-14 15:42:49] [INFO] [base_page.py]/[line: 61]/[find_ele] 定位单个元素，定位方式为 id, 定位表达式为 search-term 
+[2024-07-14 15:42:49] [INFO] [base_page.py]/[line: 133]/[wait_ele_locate] 显式等待元素可以被定位，定位方式为 class name, 定位表达式为 show-advanced-search 
+[2024-07-14 15:42:49] [INFO] [base_page.py]/[line: 18]/[__init__] 当前页面的 driver 为 <selenium.webdriver.chrome.webdriver.WebDriver (session="1a7eecb46ee62965ffb736d54d48122c")> 
+[2024-07-14 15:42:49] [INFO] [base_page.py]/[line: 61]/[find_ele] 定位单个元素，定位方式为 css selector, 定位表达式为 .search-cta 
+[2024-07-14 15:42:49] [INFO] [base_page.py]/[line: 61]/[find_ele] 定位单个元素，定位方式为 xpath, 定位表达式为 //*[@class='fps-invalid'] 
+[2024-07-14 15:42:49] [INFO] [base_page.py]/[line: 100]/[find_and_get_text] 元素的文本属性为 您的搜索词过短。 
+[2024-07-14 15:42:49] [INFO] [more_search_page.py]/[line: 64]/[get_none_msg] 提示信息为：您的搜索词过短。 
+[2024-07-14 15:42:49] [INFO] [base_page.py]/[line: 39]/[close_browser] 关闭浏览器 
+[2024-07-14 15:42:51] [INFO] [base_page.py]/[line: 18]/[__init__] 当前页面的 driver 为 None 
+[2024-07-14 15:42:54] [INFO] [base_page.py]/[line: 50]/[open_url] 打开页面的 url 为 https://ceshiren.com/ 
+[2024-07-14 15:42:54] [INFO] [base_page.py]/[line: 61]/[find_ele] 定位单个元素，定位方式为 css selector, 定位表达式为 #search-button 
+[2024-07-14 15:42:54] [INFO] [base_page.py]/[line: 61]/[find_ele] 定位单个元素，定位方式为 id, 定位表达式为 search-term 
+[2024-07-14 15:42:54] [INFO] [base_page.py]/[line: 133]/[wait_ele_locate] 显式等待元素可以被定位，定位方式为 class name, 定位表达式为 show-advanced-search 
+[2024-07-14 15:42:54] [INFO] [base_page.py]/[line: 18]/[__init__] 当前页面的 driver 为 <selenium.webdriver.chrome.webdriver.WebDriver (session="2f3a799fc835286e4be558ab29908d15")> 
+[2024-07-14 15:42:54] [INFO] [base_page.py]/[line: 61]/[find_ele] 定位单个元素，定位方式为 css selector, 定位表达式为 .search-cta 
+[2024-07-14 15:43:09] [INFO] [base_page.py]/[line: 66]/[find_ele] 单个元素没有找到 Message: no such element: Unable to locate element: {"method":"css selector","selector":".search-cta"}
+  (Session info: chrome=126.0.6478.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7002AEEA2+31554]
+	(No symbol) [0x00007FF700227ED9]
+	(No symbol) [0x00007FF7000E872A]
+	(No symbol) [0x00007FF700138434]
+	(No symbol) [0x00007FF70013853C]
+	(No symbol) [0x00007FF70017F6A7]
+	(No symbol) [0x00007FF70015D06F]
+	(No symbol) [0x00007FF70017C977]
+	(No symbol) [0x00007FF70015CDD3]
+	(No symbol) [0x00007FF70012A33B]
+	(No symbol) [0x00007FF70012AED1]
+	GetHandleVerifier [0x00007FF7005B8B1D+3217341]
+	GetHandleVerifier [0x00007FF700605AE3+3532675]
+	GetHandleVerifier [0x00007FF7005FB0E0+3489152]
+	GetHandleVerifier [0x00007FF70035E776+750614]
+	(No symbol) [0x00007FF70023375F]
+	(No symbol) [0x00007FF70022EB14]
+	(No symbol) [0x00007FF70022ECA2]
+	(No symbol) [0x00007FF70021E16F]
+	BaseThreadInitThunk [0x00007FFDF516257D+29]
+	RtlUserThreadStart [0x00007FFDF5BAAF28+40]
+ 
+[2024-07-14 15:43:09] [INFO] [base_page.py]/[line: 178]/[srceen_image] 截图保存的路径为 D:\githubRep\ccf_test\web_auto\web_po\base\..\images\2024_07_14_15_43_09.png 
+[2024-07-14 15:43:09] [INFO] [base_page.py]/[line: 196]/[save_page_source] page source 文件保存的路径为 D:\githubRep\ccf_test\web_auto\web_po\base\..\pagesource\2024_07_14_15_43_09.html 
+[2024-07-14 15:43:10] [INFO] [base_page.py]/[line: 39]/[close_browser] 关闭浏览器 
+[2024-07-14 15:44:00] [INFO] [base_page.py]/[line: 18]/[__init__] 当前页面的 driver 为 None 
+[2024-07-14 15:44:02] [INFO] [base_page.py]/[line: 50]/[open_url] 打开页面的 url 为 https://ceshiren.com/ 
+[2024-07-14 15:44:02] [INFO] [base_page.py]/[line: 61]/[find_ele] 定位单个元素，定位方式为 css selector, 定位表达式为 #search-button 
+[2024-07-14 15:44:02] [INFO] [base_page.py]/[line: 61]/[find_ele] 定位单个元素，定位方式为 id, 定位表达式为 search-term 
+[2024-07-14 15:44:03] [INFO] [base_page.py]/[line: 133]/[wait_ele_locate] 显式等待元素可以被定位，定位方式为 class name, 定位表达式为 show-advanced-search 
+[2024-07-14 15:44:03] [INFO] [base_page.py]/[line: 18]/[__init__] 当前页面的 driver 为 <selenium.webdriver.chrome.webdriver.WebDriver (session="1f8df8bff8e447785bae174b6a9f43a6")> 
+[2024-07-14 15:44:03] [INFO] [base_page.py]/[line: 147]/[wait_ele_click] 显式等待元素可以被点击，定位方式为 class name, 定位表达式为 search-link 
+[2024-07-14 15:44:03] [INFO] [base_page.py]/[line: 61]/[find_ele] 定位单个元素，定位方式为 xpath, 定位表达式为 //*[text()="确定"] 
+[2024-07-14 15:44:03] [INFO] [more_search_page.py]/[line: 40]/[get_search_result_title] 高级搜索页面下第一个标题的文本为：pytest参数化用例。标记测试用例。跳过（skip）用例。运行用例。Pytest命令行常用参数。python解释器执行pytest。pytest异常处理 
+[2024-07-14 15:44:03] [INFO] [base_page.py]/[line: 147]/[wait_ele_click] 显式等待元素可以被点击，定位方式为 class name, 定位表达式为 search-link 
+[2024-07-14 15:44:04] [INFO] [base_page.py]/[line: 18]/[__init__] 当前页面的 driver 为 <selenium.webdriver.chrome.webdriver.WebDriver (session="1f8df8bff8e447785bae174b6a9f43a6")> 
+[2024-07-14 15:44:04] [INFO] [base_page.py]/[line: 133]/[wait_ele_locate] 显式等待元素可以被定位，定位方式为 xpath, 定位表达式为 //*[@class="fancy-title"] 
+[2024-07-14 15:44:04] [INFO] [base_page.py]/[line: 39]/[close_browser] 关闭浏览器 
+[2024-07-14 15:44:07] [INFO] [base_page.py]/[line: 18]/[__init__] 当前页面的 driver 为 None 
+[2024-07-14 15:44:10] [INFO] [base_page.py]/[line: 50]/[open_url] 打开页面的 url 为 https://ceshiren.com/ 
+[2024-07-14 15:44:10] [INFO] [base_page.py]/[line: 61]/[find_ele] 定位单个元素，定位方式为 css selector, 定位表达式为 #search-button 
+[2024-07-14 15:44:10] [INFO] [base_page.py]/[line: 61]/[find_ele] 定位单个元素，定位方式为 id, 定位表达式为 search-term 
+[2024-07-14 15:44:10] [INFO] [base_page.py]/[line: 133]/[wait_ele_locate] 显式等待元素可以被定位，定位方式为 class name, 定位表达式为 show-advanced-search 
+[2024-07-14 15:44:10] [INFO] [base_page.py]/[line: 18]/[__init__] 当前页面的 driver 为 <selenium.webdriver.chrome.webdriver.WebDriver (session="1222aff455f7678fefd13e5e3d222ecf")> 
+[2024-07-14 15:44:10] [INFO] [base_page.py]/[line: 147]/[wait_ele_click] 显式等待元素可以被点击，定位方式为 class name, 定位表达式为 search-link 
+[2024-07-14 15:44:10] [INFO] [base_page.py]/[line: 61]/[find_ele] 定位单个元素，定位方式为 xpath, 定位表达式为 //*[text()="确定"] 
+[2024-07-14 15:44:10] [INFO] [more_search_page.py]/[line: 40]/[get_search_result_title] 高级搜索页面下第一个标题的文本为：价值 25k 的面试题及其答案分享 
+[2024-07-14 15:44:10] [INFO] [base_page.py]/[line: 147]/[wait_ele_click] 显式等待元素可以被点击，定位方式为 class name, 定位表达式为 search-link 
+[2024-07-14 15:44:11] [INFO] [base_page.py]/[line: 18]/[__init__] 当前页面的 driver 为 <selenium.webdriver.chrome.webdriver.WebDriver (session="1222aff455f7678fefd13e5e3d222ecf")> 
+[2024-07-14 15:44:11] [INFO] [base_page.py]/[line: 133]/[wait_ele_locate] 显式等待元素可以被定位，定位方式为 xpath, 定位表达式为 //*[@class="fancy-title"] 
+[2024-07-14 15:44:11] [INFO] [base_page.py]/[line: 39]/[close_browser] 关闭浏览器 
+[2024-07-14 15:44:14] [INFO] [base_page.py]/[line: 18]/[__init__] 当前页面的 driver 为 None 
+[2024-07-14 15:44:17] [INFO] [base_page.py]/[line: 50]/[open_url] 打开页面的 url 为 https://ceshiren.com/ 
+[2024-07-14 15:44:17] [INFO] [base_page.py]/[line: 61]/[find_ele] 定位单个元素，定位方式为 css selector, 定位表达式为 #search-button 
+[2024-07-14 15:44:17] [INFO] [base_page.py]/[line: 61]/[find_ele] 定位单个元素，定位方式为 id, 定位表达式为 search-term 
+[2024-07-14 15:44:17] [INFO] [base_page.py]/[line: 133]/[wait_ele_locate] 显式等待元素可以被定位，定位方式为 class name, 定位表达式为 show-advanced-search 
+[2024-07-14 15:44:17] [INFO] [base_page.py]/[line: 18]/[__init__] 当前页面的 driver 为 <selenium.webdriver.chrome.webdriver.WebDriver (session="66732357f48136e9ffd5e19b4c7d3f15")> 
+[2024-07-14 15:44:17] [INFO] [base_page.py]/[line: 147]/[wait_ele_click] 显式等待元素可以被点击，定位方式为 class name, 定位表达式为 search-link 
+[2024-07-14 15:44:17] [INFO] [more_search_page.py]/[line: 40]/[get_search_result_title] 高级搜索页面下第一个标题的文本为：请教下，A目录下有B子package ,B中有C子package, 然后我在C的某文件中，要import A 下的某文件，要怎么写import 语句呢? 
+[2024-07-14 15:44:17] [INFO] [base_page.py]/[line: 147]/[wait_ele_click] 显式等待元素可以被点击，定位方式为 class name, 定位表达式为 search-link 
+[2024-07-14 15:44:18] [INFO] [base_page.py]/[line: 18]/[__init__] 当前页面的 driver 为 <selenium.webdriver.chrome.webdriver.WebDriver (session="66732357f48136e9ffd5e19b4c7d3f15")> 
+[2024-07-14 15:44:18] [INFO] [base_page.py]/[line: 133]/[wait_ele_locate] 显式等待元素可以被定位，定位方式为 xpath, 定位表达式为 //*[@class="fancy-title"] 
+[2024-07-14 15:44:18] [INFO] [base_page.py]/[line: 39]/[close_browser] 关闭浏览器 
+[2024-07-14 15:44:21] [INFO] [base_page.py]/[line: 18]/[__init__] 当前页面的 driver 为 None 
+[2024-07-14 15:44:24] [INFO] [base_page.py]/[line: 50]/[open_url] 打开页面的 url 为 https://ceshiren.com/ 
+[2024-07-14 15:44:24] [INFO] [base_page.py]/[line: 61]/[find_ele] 定位单个元素，定位方式为 css selector, 定位表达式为 #search-button 
+[2024-07-14 15:44:24] [INFO] [base_page.py]/[line: 61]/[find_ele] 定位单个元素，定位方式为 id, 定位表达式为 search-term 
+[2024-07-14 15:44:24] [INFO] [base_page.py]/[line: 133]/[wait_ele_locate] 显式等待元素可以被定位，定位方式为 class name, 定位表达式为 show-advanced-search 
+[2024-07-14 15:44:24] [INFO] [base_page.py]/[line: 18]/[__init__] 当前页面的 driver 为 <selenium.webdriver.chrome.webdriver.WebDriver (session="00cb8650fe46ff9290a510187a629c76")> 
+[2024-07-14 15:44:24] [INFO] [base_page.py]/[line: 147]/[wait_ele_click] 显式等待元素可以被点击，定位方式为 class name, 定位表达式为 search-link 
+[2024-07-14 15:44:25] [INFO] [base_page.py]/[line: 61]/[find_ele] 定位单个元素，定位方式为 xpath, 定位表达式为 //*[text()="确定"] 
+[2024-07-14 15:44:25] [INFO] [more_search_page.py]/[line: 40]/[get_search_result_title] 高级搜索页面下第一个标题的文本为：appium desktop连接真机，start session，出现报错，手机上appium setting打开闪退，但是进程显示是进行中。报错内容：An unknown server-side error occurred while processing the command. Original error: Could not find a connected Android device in 20364ms. 
+[2024-07-14 15:44:25] [INFO] [base_page.py]/[line: 147]/[wait_ele_click] 显式等待元素可以被点击，定位方式为 class name, 定位表达式为 search-link 
+[2024-07-14 15:44:25] [INFO] [base_page.py]/[line: 18]/[__init__] 当前页面的 driver 为 <selenium.webdriver.chrome.webdriver.WebDriver (session="00cb8650fe46ff9290a510187a629c76")> 
+[2024-07-14 15:44:25] [INFO] [base_page.py]/[line: 133]/[wait_ele_locate] 显式等待元素可以被定位，定位方式为 xpath, 定位表达式为 //*[@class="fancy-title"] 
+[2024-07-14 15:44:25] [INFO] [base_page.py]/[line: 39]/[close_browser] 关闭浏览器 
+[2024-07-14 15:44:28] [INFO] [base_page.py]/[line: 18]/[__init__] 当前页面的 driver 为 None 
+[2024-07-14 15:44:31] [INFO] [base_page.py]/[line: 50]/[open_url] 打开页面的 url 为 https://ceshiren.com/ 
+[2024-07-14 15:44:31] [INFO] [base_page.py]/[line: 61]/[find_ele] 定位单个元素，定位方式为 css selector, 定位表达式为 #search-button 
+[2024-07-14 15:44:31] [INFO] [base_page.py]/[line: 61]/[find_ele] 定位单个元素，定位方式为 id, 定位表达式为 search-term 
+[2024-07-14 15:44:31] [INFO] [base_page.py]/[line: 133]/[wait_ele_locate] 显式等待元素可以被定位，定位方式为 class name, 定位表达式为 show-advanced-search 
+[2024-07-14 15:44:31] [INFO] [base_page.py]/[line: 18]/[__init__] 当前页面的 driver 为 <selenium.webdriver.chrome.webdriver.WebDriver (session="331569ef4edc05742b4c6a35a21815f6")> 
+[2024-07-14 15:44:31] [INFO] [base_page.py]/[line: 61]/[find_ele] 定位单个元素，定位方式为 css selector, 定位表达式为 .search-cta 
+[2024-07-14 15:44:31] [INFO] [base_page.py]/[line: 61]/[find_ele] 定位单个元素，定位方式为 xpath, 定位表达式为 //*[@class='fps-invalid'] 
+[2024-07-14 15:44:31] [INFO] [base_page.py]/[line: 100]/[find_and_get_text] 元素的文本属性为 您的搜索词过短。 
+[2024-07-14 15:44:31] [INFO] [more_search_page.py]/[line: 64]/[get_none_msg] 提示信息为：您的搜索词过短。 
+[2024-07-14 15:44:31] [INFO] [base_page.py]/[line: 39]/[close_browser] 关闭浏览器 
+[2024-07-14 15:44:34] [INFO] [base_page.py]/[line: 18]/[__init__] 当前页面的 driver 为 None 
+[2024-07-14 15:44:37] [INFO] [base_page.py]/[line: 50]/[open_url] 打开页面的 url 为 https://ceshiren.com/ 
+[2024-07-14 15:44:37] [INFO] [base_page.py]/[line: 61]/[find_ele] 定位单个元素，定位方式为 css selector, 定位表达式为 #search-button 
+[2024-07-14 15:44:37] [INFO] [base_page.py]/[line: 61]/[find_ele] 定位单个元素，定位方式为 id, 定位表达式为 search-term 
+[2024-07-14 15:44:37] [INFO] [base_page.py]/[line: 133]/[wait_ele_locate] 显式等待元素可以被定位，定位方式为 class name, 定位表达式为 show-advanced-search 
+[2024-07-14 15:44:37] [INFO] [base_page.py]/[line: 18]/[__init__] 当前页面的 driver 为 <selenium.webdriver.chrome.webdriver.WebDriver (session="24d0a7d01419719a43b34c74c1e728dd")> 
+[2024-07-14 15:44:37] [INFO] [base_page.py]/[line: 61]/[find_ele] 定位单个元素，定位方式为 css selector, 定位表达式为 .search-cta 
+[2024-07-14 15:44:37] [INFO] [base_page.py]/[line: 61]/[find_ele] 定位单个元素，定位方式为 css selector, 定位表达式为 .loading-container > h3 
+[2024-07-14 15:44:37] [INFO] [base_page.py]/[line: 100]/[find_and_get_text] 元素的文本属性为 找不到结果。 
+[2024-07-14 15:44:37] [INFO] [more_search_page.py]/[line: 76]/[get_no_result_msg] 提示信息为：找不到结果。 
+[2024-07-14 15:44:37] [INFO] [base_page.py]/[line: 39]/[close_browser] 关闭浏览器 

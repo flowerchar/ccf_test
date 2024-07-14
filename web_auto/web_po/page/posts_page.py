@@ -1,6 +1,4 @@
-"""
  
-"""
 from selenium.webdriver.common.by import By
 from web_auto.web_po.base.base_page import BasePage
 

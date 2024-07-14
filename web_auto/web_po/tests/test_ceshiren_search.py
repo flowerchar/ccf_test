@@ -1,6 +1,5 @@
-"""
- 
-"""
+from time import sleep
+
 import pytest
 from web_auto.web_po.page.main_page import MainPage
 
@@ -13,6 +12,7 @@ class TestCeshirenSearch:
     def teardown_method(self):
         # driver 退出
         self.main.close_browser()
+        sleep(1)
 
     # 正向用例
     @pytest.mark.parametrize(
